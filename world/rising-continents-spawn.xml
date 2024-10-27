@@ -128,9 +128,6 @@
 	<spawn centerx="1103" centery="999" centerz="5" radius="1">
 		<monster name="Amazon" x="0" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="1014" centery="1022" centerz="5" radius="1">
-		<npc name="Adonai" x="0" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="1151" centery="1028" centerz="5" radius="1">
 		<monster name="Boar" x="-1" y="0" z="5" spawntime="60" />
 	</spawn>
