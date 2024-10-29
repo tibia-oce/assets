@@ -17,7 +17,4 @@
 		<flag runonhealth="1" />
 		<flag hidehealth="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 </monster>

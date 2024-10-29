@@ -15,9 +15,6 @@
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-50" poison="20" />
 		<attack name="drowncondition" interval="2000" chance="20" target="1" />

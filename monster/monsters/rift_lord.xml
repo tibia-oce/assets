@@ -16,9 +16,6 @@
 		<flag targetdistance="1"/>
 		<flag runonhealth="0"/>
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" skill="10" attack="0"/>
 	</attacks>

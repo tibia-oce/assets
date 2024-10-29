@@ -16,9 +16,6 @@
 		<flag runonhealth="0" />
 		<flag canwalkonenergy="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-225" />
 		<attack name="ice" interval="1000" chance="15" radius="2" target="1" min="-240" max="-320">

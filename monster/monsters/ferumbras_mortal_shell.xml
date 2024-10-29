@@ -20,9 +20,6 @@
 		<flag canwalkonfire="1" />
 		<flag canwalkonpoison="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" skill="90" attack="200" />
 		<attack name="poisoncondition" interval="2000" chance="20" radius="6" target="0" min="-250" max="-520">

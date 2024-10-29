@@ -16,9 +16,6 @@
 		<flag staticattack="20" />
 		<flag runonhealth="3500" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-520" poison="380" />
 		<attack name="manadrain" interval="2000" chance="15" range="1" min="0" max="-920" />

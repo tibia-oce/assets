@@ -17,9 +17,6 @@
 		<flag targetdistance="1" />
 		<flag runonhealth="2000" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" skill="190" attack="100" />
 		<attack name="death" interval="2000" chance="18" length="8" spread="0" min="-1000" max="-3000">

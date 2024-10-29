@@ -19,9 +19,6 @@
 		<flag canwalkonfire="0" />
 		<flag canwalkonpoison="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<defenses armor="1" defense="1" />
 	<elements>
 		<element firePercent="-5" />

@@ -20,9 +20,6 @@
 		<flag canwalkonpoison="0" />
 	</flags>
 	<script>
-  		<event name="playerAttackSound"/>
-	</script>
-	<script>
 		<event name="GiantSpiderWyda" />
 	</script>
 	<attacks>

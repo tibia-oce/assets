@@ -16,9 +16,6 @@
 		<flag staticattack="50" />
 		<flag runonhealth="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="outfit" interval="2000" radius="3" target="1" chance="25" monster="green frog" duration="60000">
 			<attribute key="areaEffect" value="teleport" />

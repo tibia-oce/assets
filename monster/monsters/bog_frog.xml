@@ -16,7 +16,4 @@
 		<flag targetdistance="1" />
 		<flag runonhealth="25" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 </monster>

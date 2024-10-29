@@ -16,9 +16,6 @@
 		<flag staticattack="80" />
 		<flag runonhealth="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		
 		<attack name="energy" interval="2000" chance="15" length="8" spread="0" target="1" min="-100" max="-400">

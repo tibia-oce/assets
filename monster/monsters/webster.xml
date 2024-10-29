@@ -13,9 +13,6 @@
 		<flag targetdistance="1" />
 		<flag canwalkonenergy="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-250" />
 		<attack name="speed" interval="3500" chance="65" radius="1" target="1" range="1" duration="40" speedchange="-500">

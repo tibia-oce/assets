@@ -13,9 +13,6 @@
 		<flag canwalkonfire="1" />
 		<flag canwalkonpoison="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<bestiary class="Magical" prowess="50" expertise="500" mastery="1000" charmPoints="50" difficulty="medium" occurrence="common" locations="Weakened Frazzlemaw Locations..." />
 	<immunities>
 		<immunity paralyze="1" />

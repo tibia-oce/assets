@@ -17,9 +17,6 @@
 		<flag runonhealth="2500" />
 		<flag isboss="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-1990" />
 		<attack name="manadrain" interval="1000" chance="13" range="7" min="-300" max="-600" />

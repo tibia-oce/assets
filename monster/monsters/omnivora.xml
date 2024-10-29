@@ -20,9 +20,6 @@
 		<flag canwalkonfire="0" />
 		<flag canwalkonpoison="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<bestiary class="Plant" prowess="50" expertise="500" mastery="1000" charmPoints="50" difficulty="medium" occurrence="common" locations="Omnivora Locations..." />
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-150" />

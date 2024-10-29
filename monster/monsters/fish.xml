@@ -16,9 +16,6 @@
 		<flag runonhealth="25" />
 		<flag canwalkonenergy="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<defenses armor="5" defense="5" />
 	<immunities>
 		<immunity fire="1" />

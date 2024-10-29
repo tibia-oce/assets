@@ -16,9 +16,6 @@
 		<flag staticattack="80" />
 		<flag runonhealth="275" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-250" />
 		<attack name="speed" interval="4000" chance="20" range="7" target="1" speedchange="-350" duration="12000">

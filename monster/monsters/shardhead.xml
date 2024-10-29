@@ -18,9 +18,6 @@
 		<flag canwalkonpoison="0" />
 		<flag isboss="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-275" />
 		<attack name="ice" interval="2000" chance="15" range="7" target="1" min="0" max="-90">

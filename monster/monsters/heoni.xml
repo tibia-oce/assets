@@ -19,9 +19,6 @@
 		<flag canwalkonfire="0" />
 		<flag isboss="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-120" poison="480" />
 		<attack name="poisoncondition" interval="2000" chance="15" length="8" spread="3" min="-20" max="-240">

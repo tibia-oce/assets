@@ -17,9 +17,6 @@
 		<flag runonhealth="900" />
 	</flags>
 	<script>
-  		<event name="playerAttackSound"/>
-	</script>
-	<script>
 	<event name="onDeath_randomTierDrops"/>
     </script>
 	<attacks>

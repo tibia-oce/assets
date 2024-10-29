@@ -16,9 +16,6 @@
 		<flag runonhealth="150" />
 		<flag isboss="1" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-240" poison="40" />
 		<attack name="lifedrain" interval="2000" chance="10" min="-200" max="-250" target="1" range="7">

@@ -16,9 +16,6 @@
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<defenses armor="0" defense="0" />
 	<immunities>
 		<immunity earth="1" />

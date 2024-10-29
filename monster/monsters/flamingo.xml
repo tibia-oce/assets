@@ -18,9 +18,6 @@
 		<flag canwalkonfire="0" />
 		<flag canwalkonpoison="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<defenses armor="1" defense="1" />
 	<loot>
 		<item name="downy feather" chance="1000" />

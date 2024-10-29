@@ -15,9 +15,6 @@
 		<flag canwalkonfire="0" />
 		<flag canwalkonpoison="0" />
 	</flags>
-	<script>
-  		<event name="playerAttackSound"/>
-	</script>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-380" />
 		<attack name="physical" interval="7500" chance="100" min="-100" max="-250">
