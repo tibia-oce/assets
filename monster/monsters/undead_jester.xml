@@ -76,7 +76,7 @@
 		<item name="the torso of a jester doll" chance="800" />
 		<item name="yellow piece of cloth" chance="700" />
 		<item name="red piece of cloth" chance="500" />
-		<item name="the head of a jester doll" chance="400" />
+		<!-- <item name="the head of a jester doll" chance="400" /> -->
 		<item name="marlin" chance="200" />
 	</loot>
 </monster>

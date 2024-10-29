@@ -20,7 +20,7 @@
 		<flag canwalkonpoison="0" />
 	</flags>
 	<attacks>
-		<attack name="meleefistattack" interval="2000" chance="100" min="0" max="-105" range="1" />
+		<attack name="melee" interval="2000" chance="100" min="0" max="-105" range="1" />
 	</attacks>
 	<defenses armor="17" defense="17" />
 	<elements>
