@@ -193,7 +193,7 @@
 	<spawn centerx="234" centery="178" centerz="2" radius="1">
 		<monster name="Cyclops Drone" x="0" y="0" z="2" spawntime="60" />
 	</spawn>
-		<spawn centerx="509" centery="231" centerz="2" radius="1">
+	<spawn centerx="509" centery="231" centerz="2" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="2" spawntime="120" />
 	</spawn>
 	<spawn centerx="513" centery="232" centerz="2" radius="1">
@@ -281,7 +281,8 @@
 	<spawn centerx="1728" centery="1006" centerz="2" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="2" spawntime="120" />
 	</spawn>
-	<spawn centerx="1877" centery="1055" centerz="2" radius="1"><monster name="Demon" x="-1" y="1" z="2" spawntime="120" />
+	<spawn centerx="1877" centery="1055" centerz="2" radius="1">
+		<monster name="Demon" x="-1" y="1" z="2" spawntime="120" />
 	</spawn>
 	<spawn centerx="2004" centery="1104" centerz="2" radius="1">
 		<monster name="Warlock" x="1" y="-1" z="2" spawntime="120" />
@@ -373,10 +374,10 @@
 	<spawn centerx="593" centery="238" centerz="3" radius="1">
 		<monster name="Deepling Tyrant" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
-		<spawn centerx="1248" centery="348" centerz="3" radius="1">
+	<spawn centerx="1248" centery="348" centerz="3" radius="1">
 		<monster name="Cyclops Smith" x="-1" y="0" z="3" spawntime="60" />
 	</spawn>
-		<spawn centerx="304" centery="417" centerz="3" radius="1">
+	<spawn centerx="304" centery="417" centerz="3" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="486" centery="536" centerz="3" radius="1">
@@ -485,7 +486,8 @@
 	<spawn centerx="1864" centery="1051" centerz="3" radius="1">
 		<monster name="Demon" x="0" y="0" z="3" spawntime="120" />
 	</spawn>
-	<spawn centerx="1861" centery="1054" centerz="3" radius="1"><monster name="Cliff Strider" x="-1" y="1" z="3" spawntime="120" />
+	<spawn centerx="1861" centery="1054" centerz="3" radius="1">
+		<monster name="Cliff Strider" x="-1" y="1" z="3" spawntime="120" />
 	</spawn>
 	<spawn centerx="1865" centery="1054" centerz="3" radius="1">
 		<monster name="Demon" x="-1" y="0" z="3" spawntime="120" />
@@ -730,7 +732,7 @@
 	<spawn centerx="508" centery="234" centerz="4" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
-		<spawn centerx="510" centery="235" centerz="4" radius="1">
+	<spawn centerx="510" centery="235" centerz="4" radius="1">
 		<monster name="Acolyte of the Cult" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="587" centery="236" centerz="4" radius="1">
@@ -1239,7 +1241,7 @@
 	<spawn centerx="1969" centery="1090" centerz="4" radius="1">
 		<monster name="Warlock" x="0" y="0" z="4" spawntime="120" />
 	</spawn>
-		<spawn centerx="1962" centery="1099" centerz="4" radius="1">
+	<spawn centerx="1962" centery="1099" centerz="4" radius="1">
 		<monster name="Infernalist" x="1" y="-1" z="4" spawntime="120" />
 		<monster name="Warlock" x="0" y="0" z="4" spawntime="120" />
 	</spawn>
@@ -1560,13 +1562,13 @@
 		<monster name="Elf Arcanist" x="6" y="9" z="5" spawntime="60" />
 		<monster name="Elf Arcanist" x="7" y="10" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="425" centery="211" centerz="5" radius="1">
+	<spawn centerx="425" centery="211" centerz="5" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="433" centery="214" centerz="5" radius="1">
+	<spawn centerx="433" centery="214" centerz="5" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="436" centery="220" centerz="5" radius="1">
+	<spawn centerx="436" centery="220" centerz="5" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="440" centery="222" centerz="5" radius="1">
@@ -1593,7 +1595,7 @@
 	<spawn centerx="622" centery="233" centerz="5" radius="1">
 		<monster name="Deepling Guard" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="508" centery="234" centerz="5" radius="1">
+	<spawn centerx="508" centery="234" centerz="5" radius="1">
 		<monster name="Adept of the Cult" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="511" centery="234" centerz="5" radius="1">
@@ -1603,7 +1605,7 @@
 	<spawn centerx="625" centery="234" centerz="5" radius="1">
 		<monster name="Deepling Tyrant" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="592" centery="235" centerz="5" radius="1">
+	<spawn centerx="592" centery="235" centerz="5" radius="1">
 		<monster name="Deepling Master Librarian" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="609" centery="236" centerz="5" radius="1">
@@ -1615,7 +1617,7 @@
 	<spawn centerx="581" centery="238" centerz="5" radius="1">
 		<monster name="Deepling Guard" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="586" centery="239" centerz="5" radius="1">
+	<spawn centerx="586" centery="239" centerz="5" radius="1">
 		<monster name="Deepling Warrior" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="582" centery="240" centerz="5" radius="1">
@@ -1630,7 +1632,7 @@
 	<spawn centerx="606" centery="249" centerz="5" radius="1">
 		<monster name="Deepling Master Librarian" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="600" centery="258" centerz="5" radius="1">
+	<spawn centerx="600" centery="258" centerz="5" radius="1">
 		<monster name="Deepling Guard" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="587" centery="260" centerz="5" radius="1">
@@ -1901,7 +1903,7 @@
 	<spawn centerx="660" centery="359" centerz="5" radius="1">
 		<monster name="Merlkin" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="2026" centery="359" centerz="5" radius="1">
+	<spawn centerx="2026" centery="359" centerz="5" radius="1">
 		<monster name="Troll" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="658" centery="360" centerz="5" radius="1">
@@ -1960,7 +1962,7 @@
 	<spawn centerx="1172" centery="369" centerz="5" radius="1">
 		<monster name="Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="1153" centery="370" centerz="5" radius="1">
+	<spawn centerx="1153" centery="370" centerz="5" radius="1">
 		<monster name="Snake" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="1956" centery="370" centerz="5" radius="1">
@@ -2011,7 +2013,7 @@
 	<spawn centerx="279" centery="381" centerz="5" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="2006" centery="383" centerz="5" radius="1">
+	<spawn centerx="2006" centery="383" centerz="5" radius="1">
 		<monster name="Troll" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="2011" centery="383" centerz="5" radius="1">
@@ -2059,7 +2061,7 @@
 	<spawn centerx="2015" centery="396" centerz="5" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="2043" centery="397" centerz="5" radius="1">
+	<spawn centerx="2043" centery="397" centerz="5" radius="1">
 		<monster name="Bear" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="2071" centery="397" centerz="5" radius="1">
@@ -2126,7 +2128,7 @@
 	<spawn centerx="2088" centery="414" centerz="5" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="2101" centery="416" centerz="5" radius="1">
+	<spawn centerx="2101" centery="416" centerz="5" radius="1">
 		<monster name="Bear" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="292" centery="417" centerz="5" radius="1">
@@ -2466,7 +2468,7 @@
 	<spawn centerx="1015" centery="611" centerz="5" radius="1">
 		<monster name="Haunted Treeling" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="1437" centery="818" centerz="5" radius="5">
+	<spawn centerx="1437" centery="818" centerz="5" radius="5">
 		<monster name="Ice Golem" x="-1" y="-1" z="5" spawntime="60" />
 		<monster name="Ice Golem" x="5" y="-1" z="5" spawntime="60" />
 		<monster name="Ice Golem" x="2" y="0" z="5" spawntime="60" />
@@ -2475,7 +2477,7 @@
 		<monster name="Ice Golem" x="0" y="2" z="5" spawntime="60" />
 		<monster name="Ice Golem" x="4" y="2" z="5" spawntime="60" />
 	</spawn>
-		<spawn centerx="1434" centery="851" centerz="5" radius="5">
+	<spawn centerx="1434" centery="851" centerz="5" radius="5">
 		<monster name="Ice Golem" x="5" y="-3" z="5" spawntime="60" />
 		<monster name="Ice Golem" x="-3" y="0" z="5" spawntime="60" />
 		<monster name="Ice Golem" x="1" y="0" z="5" spawntime="60" />
@@ -2848,7 +2850,7 @@
 	<spawn centerx="1527" centery="1035" centerz="5" radius="1">
 		<monster name="Vicious Squire" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1493" centery="1036" centerz="5" radius="1">
+	<spawn centerx="1493" centery="1036" centerz="5" radius="1">
 		<monster name="Vile Grandmaster" x="1" y="-1" z="5" spawntime="120" />
 		<monster name="Vicious Squire" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
@@ -2861,19 +2863,19 @@
 	<spawn centerx="1743" centery="1039" centerz="5" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1494" centery="1044" centerz="5" radius="1">
+	<spawn centerx="1494" centery="1044" centerz="5" radius="1">
 		<monster name="Vicious Squire" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="1526" centery="1045" centerz="5" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1525" centery="1047" centerz="5" radius="1">
+	<spawn centerx="1525" centery="1047" centerz="5" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="1492" centery="1048" centerz="5" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1489" centery="1050" centerz="5" radius="1">
+	<spawn centerx="1489" centery="1050" centerz="5" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="1876" centery="1053" centerz="5" radius="1">
@@ -2885,7 +2887,7 @@
 	<spawn centerx="1880" centery="1054" centerz="5" radius="1">
 		<monster name="Demon" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1858" centery="1056" centerz="5" radius="1">
+	<spawn centerx="1858" centery="1056" centerz="5" radius="1">
 		<monster name="Demon" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="1863" centery="1056" centerz="5" radius="1">
@@ -2901,13 +2903,13 @@
 	<spawn centerx="1704" centery="1058" centerz="5" radius="1">
 		<monster name="Diamond Servant" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1695" centery="1060" centerz="5" radius="1">
+	<spawn centerx="1695" centery="1060" centerz="5" radius="1">
 		<monster name="Diamond Servant" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="1706" centery="1060" centerz="5" radius="1">
 		<monster name="Golden Servant" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1213" centery="1062" centerz="5" radius="1">
+	<spawn centerx="1213" centery="1062" centerz="5" radius="1">
 		<npc name="Asnarus" x="-1" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="1498" centery="1062" centerz="5" radius="1">
@@ -2934,7 +2936,7 @@
 	<spawn centerx="1690" centery="1068" centerz="5" radius="1">
 		<monster name="Diamond Servant" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="1694" centery="1069" centerz="5" radius="1">
+	<spawn centerx="1694" centery="1069" centerz="5" radius="1">
 		<monster name="Golden Servant" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="1976" centery="1069" centerz="5" radius="1">
@@ -3373,7 +3375,7 @@
 	<spawn centerx="363" centery="1383" centerz="5" radius="1">
 		<npc name="Elyotrope" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
-		<spawn centerx="360" centery="1409" centerz="5" radius="1">
+	<spawn centerx="360" centery="1409" centerz="5" radius="1">
 		<monster name="Demon" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="362" centery="1409" centerz="5" radius="1">
@@ -3547,7 +3549,7 @@
 	<spawn centerx="428" centery="212" centerz="6" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="972" centery="217" centerz="6" radius="1">
+	<spawn centerx="972" centery="217" centerz="6" radius="1">
 		<monster name="Bear" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
 	<spawn centerx="970" centery="218" centerz="6" radius="1">
@@ -3568,10 +3570,10 @@
 	<spawn centerx="612" centery="232" centerz="6" radius="1">
 		<monster name="Deepling Warrior" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="618" centery="233" centerz="6" radius="1">
+	<spawn centerx="618" centery="233" centerz="6" radius="1">
 		<monster name="Deepling Warrior" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="506" centery="236" centerz="6" radius="1">
+	<spawn centerx="506" centery="236" centerz="6" radius="1">
 		<monster name="Acolyte of the Cult" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="512" centery="236" centerz="6" radius="1">
@@ -3610,16 +3612,16 @@
 	<spawn centerx="429" centery="283" centerz="6" radius="1">
 		<npc name="Rashid" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
-		<spawn centerx="269" centery="285" centerz="6" radius="1">
+	<spawn centerx="269" centery="285" centerz="6" radius="1">
 		<monster name="Sparkion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="384" centery="295" centerz="6" radius="1">
+	<spawn centerx="384" centery="295" centerz="6" radius="1">
 		<npc name="Benjamin" x="1" y="0" z="6" spawntime="120" />
 	</spawn>
 	<spawn centerx="615" centery="295" centerz="6" radius="1">
 		<monster name="Deepling Spellsinger" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="509" centery="297" centerz="6" radius="1">
+	<spawn centerx="509" centery="297" centerz="6" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="625" centery="298" centerz="6" radius="1">
@@ -3697,7 +3699,7 @@
 	<spawn centerx="2014" centery="309" centerz="6" radius="1">
 		<monster name="Bear" x="0" y="-1" z="6" spawntime="120" />
 	</spawn>
-		<spawn centerx="2006" centery="310" centerz="6" radius="1">
+	<spawn centerx="2006" centery="310" centerz="6" radius="1">
 		<monster name="Bear" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
 	<spawn centerx="555" centery="311" centerz="6" radius="1">
@@ -3709,7 +3711,7 @@
 	<spawn centerx="596" centery="311" centerz="6" radius="1">
 		<monster name="Deepling worker" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="611" centery="312" centerz="6" radius="1">
+	<spawn centerx="611" centery="312" centerz="6" radius="1">
 		<monster name="Deepling Brawler" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="605" centery="313" centerz="6" radius="1">
@@ -3755,13 +3757,13 @@
 	<spawn centerx="556" centery="320" centerz="6" radius="1">
 		<monster name="Quara Hydromancer" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="573" centery="321" centerz="6" radius="1">
+	<spawn centerx="573" centery="321" centerz="6" radius="1">
 		<monster name="Quara Predator" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="2022" centery="321" centerz="6" radius="1">
 		<monster name="Bear" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
-		<spawn centerx="572" centery="323" centerz="6" radius="1">
+	<spawn centerx="572" centery="323" centerz="6" radius="1">
 		<monster name="Quara Pincher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="564" centery="325" centerz="6" radius="1">
@@ -3770,16 +3772,16 @@
 	<spawn centerx="568" centery="325" centerz="6" radius="1">
 		<monster name="Quara Pincher" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="647" centery="327" centerz="6" radius="1">
+	<spawn centerx="647" centery="327" centerz="6" radius="1">
 		<monster name="Merlkin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="634" centery="329" centerz="6" radius="1">
+	<spawn centerx="634" centery="329" centerz="6" radius="1">
 		<monster name="Sibang" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="636" centery="329" centerz="6" radius="1">
 		<monster name="Merlkin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="650" centery="331" centerz="6" radius="1">
+	<spawn centerx="650" centery="331" centerz="6" radius="1">
 		<monster name="Merlkin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="652" centery="331" centerz="6" radius="1">
@@ -3828,7 +3830,7 @@
 	<spawn centerx="580" centery="338" centerz="6" radius="1">
 		<monster name="Kongra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="583" centery="339" centerz="6" radius="1">
+	<spawn centerx="583" centery="339" centerz="6" radius="1">
 		<monster name="Sibang" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="587" centery="340" centerz="6" radius="1">
@@ -3864,7 +3866,7 @@
 	<spawn centerx="1220" centery="345" centerz="6" radius="2">
 		<monster name="Cyclops" x="-1" y="0" z="6" spawntime="90" />
 	</spawn>
-		<spawn centerx="549" centery="346" centerz="6" radius="1">
+	<spawn centerx="549" centery="346" centerz="6" radius="1">
 		<monster name="Merlkin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1207" centery="346" centerz="6" radius="1">
@@ -3892,7 +3894,7 @@
 	<spawn centerx="1260" centery="349" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="611" centery="351" centerz="6" radius="1">
+	<spawn centerx="611" centery="351" centerz="6" radius="1">
 		<monster name="Merlkin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="622" centery="351" centerz="6" radius="1">
@@ -3937,7 +3939,7 @@
 	<spawn centerx="586" centery="358" centerz="6" radius="1">
 		<monster name="Sibang" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="523" centery="359" centerz="6" radius="1">
+	<spawn centerx="523" centery="359" centerz="6" radius="1">
 		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="644" centery="359" centerz="6" radius="1">
@@ -3968,7 +3970,7 @@
 	<spawn centerx="659" centery="361" centerz="6" radius="1">
 		<monster name="Sibang" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="644" centery="362" centerz="6" radius="1">
+	<spawn centerx="644" centery="362" centerz="6" radius="1">
 		<monster name="Kongra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1234" centery="362" centerz="6" radius="2">
@@ -3986,7 +3988,7 @@
 	<spawn centerx="1225" centery="363" centerz="6" radius="2">
 		<monster name="Cyclops" x="1" y="0" z="6" spawntime="90" />
 	</spawn>
-		<spawn centerx="287" centery="364" centerz="6" radius="1">
+	<spawn centerx="287" centery="364" centerz="6" radius="1">
 		<monster name="Dragon Hatchling" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="582" centery="364" centerz="6" radius="1">
@@ -4043,7 +4045,7 @@
 	<spawn centerx="1218" centery="367" centerz="6" radius="1">
 		<monster name="Cyclops Drone" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="1148" centery="370" centerz="6" radius="1">
+	<spawn centerx="1148" centery="370" centerz="6" radius="1">
 		<monster name="Snake" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1231" centery="370" centerz="6" radius="1">
@@ -4061,7 +4063,7 @@
 	<spawn centerx="281" centery="373" centerz="6" radius="1">
 		<monster name="Dragon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="293" centery="375" centerz="6" radius="1">
+	<spawn centerx="293" centery="375" centerz="6" radius="1">
 		<monster name="Dragon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="606" centery="375" centerz="6" radius="1">
@@ -4082,7 +4084,7 @@
 	<spawn centerx="570" centery="376" centerz="6" radius="1">
 		<monster name="Merlkin" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="259" centery="377" centerz="6" radius="1">
+	<spawn centerx="259" centery="377" centerz="6" radius="1">
 		<monster name="Dragon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="603" centery="377" centerz="6" radius="1">
@@ -4576,7 +4578,7 @@
 	<spawn centerx="501" centery="505" centerz="6" radius="1">
 		<monster name="Sparkion" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="1262" centery="505" centerz="6" radius="1">
+	<spawn centerx="1262" centery="505" centerz="6" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1255" centery="506" centerz="6" radius="1">
@@ -4591,13 +4593,13 @@
 	<spawn centerx="1043" centery="507" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="1112" centery="508" centerz="6" radius="1">
+	<spawn centerx="1112" centery="508" centerz="6" radius="1">
 		<monster name="Orc Berserker" x="0" y="-1" z="6" spawntime="120" />
 	</spawn>
 	<spawn centerx="1260" centery="508" centerz="6" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="1039" centery="511" centerz="6" radius="1">
+	<spawn centerx="1039" centery="511" centerz="6" radius="1">
 		<monster name="Mummy" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1103" centery="514" centerz="6" radius="1">
@@ -5078,16 +5080,16 @@
 		<monster name="Silencer" x="2" y="-1" z="6" spawntime="60" />
 		<monster name="Silencer" x="-3" y="1" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="2238" centery="761" centerz="6" radius="1">
+	<spawn centerx="2238" centery="761" centerz="6" radius="1">
 		<npc name="Captain Thief" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
-		<spawn centerx="1435" centery="818" centerz="6" radius="5">
+	<spawn centerx="1435" centery="818" centerz="6" radius="5">
 		<monster name="Ice Golem" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="3" y="-1" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="-2" y="2" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="1443" centery="820" centerz="6" radius="5">
+	<spawn centerx="1443" centery="820" centerz="6" radius="5">
 		<monster name="Frost Dragon" x="-2" y="-1" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="3" y="-1" z="6" spawntime="60" />
 		<monster name="Frost Dragon" x="4" y="2" z="6" spawntime="60" />
@@ -5100,7 +5102,7 @@
 		<monster name="Frost Dragon" x="-3" y="5" z="6" spawntime="60" />
 		<monster name="Frost Dragon" x="-1" y="5" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="1428" centery="839" centerz="6" radius="5">
+	<spawn centerx="1428" centery="839" centerz="6" radius="5">
 		<monster name="Frost Dragon" x="2" y="-2" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="2" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -5108,7 +5110,7 @@
 		<monster name="Frost Dragon" x="-1" y="0" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="3" y="4" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="1362" centery="847" centerz="6" radius="5">
+	<spawn centerx="1362" centery="847" centerz="6" radius="5">
 		<monster name="Frost Dragon" x="4" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="994" centery="848" centerz="6" radius="1">
@@ -5137,7 +5139,7 @@
 		<monster name="Ice Golem" x="-2" y="1" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="3" y="2" z="6" spawntime="60" />
 	</spawn>
-		<spawn centerx="998" centery="853" centerz="6" radius="1">
+	<spawn centerx="998" centery="853" centerz="6" radius="1">
 		<monster name="Frost Dragon" x="0" y="-1" z="6" spawntime="120" />
 	</spawn>
 	<spawn centerx="1195" centery="855" centerz="6" radius="1">
@@ -6523,7 +6525,8 @@
 	<spawn centerx="2056" centery="1263" centerz="6" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
-	<spawn centerx="2056" centery="1267" centerz="6" radius="1"><monster name="Plaguesmith" x="0" y="0" z="6" spawntime="120" />
+	<spawn centerx="2056" centery="1267" centerz="6" radius="1">
+		<monster name="Plaguesmith" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
 	<spawn centerx="2028" centery="1270" centerz="6" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="6" spawntime="120" />
@@ -6721,7 +6724,7 @@
 	<spawn centerx="398" centery="1409" centerz="6" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
-		<spawn centerx="1138" centery="23" centerz="7" radius="1">
+	<spawn centerx="1138" centery="23" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1101" centery="34" centerz="7" radius="30">
@@ -6782,7 +6785,6 @@
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1013" centery="72" centerz="7" radius="30">
-		
 		<monster name="Dragon" x="19" y="0" z="7" spawntime="60" />
 		<monster name="Dragon" x="8" y="13" z="7" spawntime="60" />
 		<monster name="Dragon" x="20" y="13" z="7" spawntime="60" />
@@ -7503,7 +7505,7 @@
 	<spawn centerx="368" centery="211" centerz="7" radius="1">
 		<monster name="Nomad" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="278" centery="212" centerz="7" radius="1">
+	<spawn centerx="278" centery="212" centerz="7" radius="1">
 		<monster name="Orc Leader" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="253" centery="213" centerz="7" radius="1">
@@ -8080,7 +8082,7 @@
 	<spawn centerx="451" centery="300" centerz="7" radius="1">
 		<monster name="Nomad" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1080" centery="300" centerz="7" radius="1">
+	<spawn centerx="1080" centery="300" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="2041" centery="300" centerz="7" radius="1">
@@ -8156,7 +8158,7 @@
 	<spawn centerx="435" centery="307" centerz="7" radius="1">
 		<npc name="Royal Guard" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1069" centery="307" centerz="7" radius="1">
+	<spawn centerx="1069" centery="307" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1091" centery="307" centerz="7" radius="1">
@@ -8222,7 +8224,7 @@
 	<spawn centerx="354" centery="312" centerz="7" radius="1">
 		<monster name="Cat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1078" centery="312" centerz="7" radius="1">
+	<spawn centerx="1078" centery="312" centerz="7" radius="1">
 		<monster name="Goblin" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1083" centery="312" centerz="7" radius="1">
@@ -8268,7 +8270,7 @@
 	<spawn centerx="645" centery="314" centerz="7" radius="1">
 		<monster name="Kongra" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1023" centery="315" centerz="7" radius="1">
+	<spawn centerx="1023" centery="315" centerz="7" radius="1">
 		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1032" centery="315" centerz="7" radius="2">
@@ -8361,7 +8363,7 @@
 	<spawn centerx="2017" centery="322" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="550" centery="323" centerz="7" radius="1">
+	<spawn centerx="550" centery="323" centerz="7" radius="1">
 		<monster name="Sibang" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="568" centery="323" centerz="7" radius="1">
@@ -9845,7 +9847,7 @@
 	<spawn centerx="1530" centery="410" centerz="7" radius="2">
 		<monster name="Retching Horror" x="2" y="-1" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="222" centery="411" centerz="7" radius="1">
+	<spawn centerx="222" centery="411" centerz="7" radius="1">
 		<monster name="Dragon" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Dragon" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -9963,7 +9965,7 @@
 	<spawn centerx="1424" centery="419" centerz="7" radius="1">
 		<npc name="Royal Guard" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1206" centery="420" centerz="7" radius="1">
+	<spawn centerx="1206" centery="420" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="498" centery="421" centerz="7" radius="1">
@@ -11310,11 +11312,9 @@
 		<monster name="Guzzlemaw" x="-3" y="2" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="503" centery="507" centerz="7" radius="1">
-		
 		<monster name="Sparkion" x="1" y="0" z="7" spawntime="60" />
-		
 	</spawn>
-		<spawn centerx="589" centery="507" centerz="7" radius="1">
+	<spawn centerx="589" centery="507" centerz="7" radius="1">
 		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1554" centery="507" centerz="7" radius="1">
@@ -11510,7 +11510,7 @@
 	<spawn centerx="1735" centery="518" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1093" centery="519" centerz="7" radius="1">
+	<spawn centerx="1093" centery="519" centerz="7" radius="1">
 		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1515" centery="519" centerz="7" radius="1">
@@ -11707,7 +11707,7 @@
 	<spawn centerx="1074" centery="533" centerz="7" radius="1">
 		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="992" centery="534" centerz="7" radius="1">
+	<spawn centerx="992" centery="534" centerz="7" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1424" centery="534" centerz="7" radius="3">
@@ -11795,7 +11795,7 @@
 	<spawn centerx="1025" centery="538" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1005" centery="540" centerz="7" radius="1">
+	<spawn centerx="1005" centery="540" centerz="7" radius="1">
 		<monster name="Vampire" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1039" centery="540" centerz="7" radius="1">
@@ -12008,7 +12008,7 @@
 	<spawn centerx="994" centery="559" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="363" centery="560" centerz="7" radius="1">
+	<spawn centerx="363" centery="560" centerz="7" radius="1">
 		<monster name="Sea Serpent" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="411" centery="561" centerz="7" radius="1">
@@ -12475,7 +12475,7 @@
 	<spawn centerx="1083" centery="605" centerz="7" radius="1">
 		<monster name="Elder Bonelord" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="442" centery="606" centerz="7" radius="1">
+	<spawn centerx="442" centery="606" centerz="7" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="444" centery="606" centerz="7" radius="1">
@@ -12577,7 +12577,7 @@
 	<spawn centerx="1058" centery="617" centerz="7" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1073" centery="618" centerz="7" radius="1">
+	<spawn centerx="1073" centery="618" centerz="7" radius="1">
 		<monster name="Haunted Treeling" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1397" centery="618" centerz="7" radius="5">
@@ -12628,7 +12628,7 @@
 		<monster name="Frazzlemaw" x="-4" y="2" z="7" spawntime="60" />
 		<monster name="Shock Head" x="4" y="4" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1047" centery="625" centerz="7" radius="1">
+	<spawn centerx="1047" centery="625" centerz="7" radius="1">
 		<monster name="Elder Bonelord" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1056" centery="627" centerz="7" radius="1">
@@ -12665,17 +12665,17 @@
 		<monster name="Silencer" x="1" y="3" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="-3" y="4" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1370" centery="638" centerz="7" radius="5">
+	<spawn centerx="1370" centery="638" centerz="7" radius="5">
 		<monster name="Frazzlemaw" x="-1" y="-4" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="5" y="1" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1353" centery="640" centerz="7" radius="5">
+	<spawn centerx="1353" centery="640" centerz="7" radius="5">
 		<monster name="Frazzlemaw" x="4" y="-3" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="-2" y="0" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="4" y="1" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1429" centery="642" centerz="7" radius="5">
+	<spawn centerx="1429" centery="642" centerz="7" radius="5">
 		<monster name="Silencer" x="4" y="-4" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="-3" y="-3" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="5" y="-2" z="7" spawntime="60" />
@@ -12683,7 +12683,7 @@
 		<monster name="Silencer" x="4" y="1" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="-1" y="3" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1318" centery="647" centerz="7" radius="1">
+	<spawn centerx="1318" centery="647" centerz="7" radius="1">
 		<npc name="Captain Seagull" x="0" y="-1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1383" centery="647" centerz="7" radius="5">
@@ -12692,7 +12692,7 @@
 		<monster name="Frazzlemaw" x="-3" y="0" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="-1" y="2" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1408" centery="651" centerz="7" radius="5">
+	<spawn centerx="1408" centery="651" centerz="7" radius="5">
 		<monster name="Frazzlemaw" x="1" y="-2" z="7" spawntime="60" />
 		<monster name="Frazzlemaw" x="-3" y="1" z="7" spawntime="60" />
 		<monster name="Silencer" x="-1" y="3" z="7" spawntime="60" />
@@ -12723,10 +12723,10 @@
 		<monster name="Frazzlemaw" x="1" y="2" z="7" spawntime="60" />
 		<monster name="Silencer" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1756" centery="715" centerz="7" radius="1">
+	<spawn centerx="1756" centery="715" centerz="7" radius="1">
 		<monster name="Ogre Brute" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1768" centery="719" centerz="7" radius="1">
+	<spawn centerx="1768" centery="719" centerz="7" radius="1">
 		<monster name="Ogre Brute" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1783" centery="733" centerz="7" radius="1">
@@ -12758,7 +12758,7 @@
 		<monster name="Frost Dragon" x="-5" y="-1" z="7" spawntime="60" />
 		<monster name="Frost Dragon" x="3" y="1" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1395" centery="841" centerz="7" radius="5">
+	<spawn centerx="1395" centery="841" centerz="7" radius="5">
 		<monster name="Frost Dragon" x="4" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1205" centery="842" centerz="7" radius="1">
@@ -12796,7 +12796,7 @@
 		<monster name="Frost Giantess" x="-2" y="2" z="7" spawntime="60" />
 		<monster name="Frost Giant" x="1" y="4" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="982" centery="855" centerz="7" radius="5">
+	<spawn centerx="982" centery="855" centerz="7" radius="5">
 		<monster name="Frost Dragon" x="-2" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1180" centery="855" centerz="7" radius="1">
@@ -12826,7 +12826,7 @@
 	<spawn centerx="1403" centery="859" centerz="7" radius="1">
 		<monster name="Frost Dragon" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1323" centery="861" centerz="7" radius="1">
+	<spawn centerx="1323" centery="861" centerz="7" radius="1">
 		<monster name="Frost Dragon" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1082" centery="862" centerz="7" radius="5">
@@ -13360,7 +13360,7 @@
 	<spawn centerx="1842" centery="942" centerz="7" radius="1">
 		<monster name="Stone Devourer" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1010" centery="943" centerz="7" radius="1">
+	<spawn centerx="1010" centery="943" centerz="7" radius="1">
 		<monster name="Crystal Spider" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1202" centery="943" centerz="7" radius="1">
@@ -13393,14 +13393,14 @@
 	<spawn centerx="1841" centery="944" centerz="7" radius="1">
 		<monster name="Magma Crawler" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="971" centery="945" centerz="7" radius="1">
+	<spawn centerx="971" centery="945" centerz="7" radius="1">
 		<monster name="Crystal Spider" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Ice Golem" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1279" centery="945" centerz="7" radius="1">
 		<monster name="Frost Dragon" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-		<spawn centerx="1524" centery="946" centerz="7" radius="1">
+	<spawn centerx="1524" centery="946" centerz="7" radius="1">
 		<monster name="Ogre Savage" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1667" centery="946" centerz="7" radius="1">
@@ -13473,7 +13473,7 @@
 	<spawn centerx="1866" centery="949" centerz="7" radius="1">
 		<monster name="Armadile" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1213" centery="950" centerz="7" radius="1">
+	<spawn centerx="1213" centery="950" centerz="7" radius="1">
 		<monster name="Frost Dragon" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1532" centery="950" centerz="7" radius="1">
@@ -13522,7 +13522,7 @@
 	<spawn centerx="1703" centery="954" centerz="7" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1296" centery="955" centerz="7" radius="1">
+	<spawn centerx="1296" centery="955" centerz="7" radius="1">
 		<monster name="Frost Dragon" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1560" centery="955" centerz="7" radius="1">
@@ -13606,7 +13606,7 @@
 	<spawn centerx="1812" centery="956" centerz="7" radius="1">
 		<monster name="Humongous Fungus" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1277" centery="957" centerz="7" radius="1">
+	<spawn centerx="1277" centery="957" centerz="7" radius="1">
 		<monster name="Frost Dragon" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1547" centery="957" centerz="7" radius="1">
@@ -13651,7 +13651,7 @@
 	<spawn centerx="1824" centery="959" centerz="7" radius="1">
 		<monster name="Magma Crawler" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1536" centery="960" centerz="7" radius="1">
+	<spawn centerx="1536" centery="960" centerz="7" radius="1">
 		<monster name="Ogre Savage" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1547" centery="960" centerz="7" radius="1">
@@ -13801,7 +13801,7 @@
 	<spawn centerx="1604" centery="968" centerz="7" radius="1">
 		<monster name="Ogre Shaman" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1151" centery="969" centerz="7" radius="15">
+	<spawn centerx="1151" centery="969" centerz="7" radius="15">
 		<monster name="Frost Giant" x="-1" y="-11" z="7" spawntime="60" />
 		<monster name="Frost Giantess" x="11" y="-4" z="7" spawntime="60" />
 		<monster name="Frost Giant" x="12" y="0" z="7" spawntime="60" />
@@ -13913,7 +13913,7 @@
 	<spawn centerx="1636" centery="976" centerz="7" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1501" centery="977" centerz="7" radius="1">
+	<spawn centerx="1501" centery="977" centerz="7" radius="1">
 		<monster name="Glooth Golem" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1594" centery="977" centerz="7" radius="1">
@@ -13966,7 +13966,7 @@
 	<spawn centerx="1716" centery="979" centerz="7" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="1337" centery="980" centerz="7" radius="1">
+	<spawn centerx="1337" centery="980" centerz="7" radius="1">
 		<monster name="Winter wolf" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Polar Bear" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -16114,7 +16114,7 @@
 	<spawn centerx="1756" centery="1258" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="2044" centery="1259" centerz="7" radius="1">
+	<spawn centerx="2044" centery="1259" centerz="7" radius="1">
 		<monster name="Nightmare" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="2027" centery="1260" centerz="7" radius="1">
@@ -16352,7 +16352,7 @@
 	<spawn centerx="384" centery="1394" centerz="7" radius="2">
 		<npc name="Armin" x="0" y="1" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="165" centery="1618" centerz="7" radius="1">
+	<spawn centerx="165" centery="1618" centerz="7" radius="1">
 		<monster name="Chicken" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="166" centery="1620" centerz="7" radius="1">
@@ -16400,7 +16400,7 @@
 	<spawn centerx="186" centery="1642" centerz="7" radius="1">
 		<monster name="Dog" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-		<spawn centerx="275" centery="2081" centerz="7" radius="1">
+	<spawn centerx="275" centery="2081" centerz="7" radius="1">
 		<npc name="Candis" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1166" centery="53" centerz="8" radius="1">
@@ -16539,7 +16539,7 @@
 	<spawn centerx="1100" centery="210" centerz="8" radius="1">
 		<monster name="Vicious Squire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="364" centery="211" centerz="8" radius="1">
+	<spawn centerx="364" centery="211" centerz="8" radius="1">
 		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="451" centery="211" centerz="8" radius="1">
@@ -16575,7 +16575,7 @@
 	<spawn centerx="604" centery="215" centerz="8" radius="1">
 		<monster name="Moohtant" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="456" centery="216" centerz="8" radius="1">
+	<spawn centerx="456" centery="216" centerz="8" radius="1">
 		<monster name="Marid" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1077" centery="216" centerz="8" radius="1">
@@ -16602,7 +16602,7 @@
 	<spawn centerx="1071" centery="225" centerz="8" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1096" centery="226" centerz="8" radius="1">
+	<spawn centerx="1096" centery="226" centerz="8" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="446" centery="227" centerz="8" radius="1">
@@ -16660,7 +16660,7 @@
 	<spawn centerx="592" centery="233" centerz="8" radius="1">
 		<monster name="Moohtant" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1073" centery="234" centerz="8" radius="1">
+	<spawn centerx="1073" centery="234" centerz="8" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1088" centery="235" centerz="8" radius="1">
@@ -17159,7 +17159,7 @@
 	<spawn centerx="1438" centery="342" centerz="8" radius="1">
 		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="298" centery="343" centerz="8" radius="1">
+	<spawn centerx="298" centery="343" centerz="8" radius="1">
 		<monster name="Weeper" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="527" centery="343" centerz="8" radius="1">
@@ -17420,7 +17420,8 @@
 	<spawn centerx="1130" centery="368" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="2069" centery="368" centerz="8" radius="1"><monster name="Minotaur" x="0" y="0" z="8" spawntime="120" />
+	<spawn centerx="2069" centery="368" centerz="8" radius="1">
+		<monster name="Minotaur" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1117" centery="370" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -17447,7 +17448,7 @@
 	<spawn centerx="1138" centery="371" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2082" centery="371" centerz="8" radius="1">
+	<spawn centerx="2082" centery="371" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="545" centery="372" centerz="8" radius="1">
@@ -17684,7 +17685,7 @@
 	<spawn centerx="1569" centery="399" centerz="8" radius="1">
 		<monster name="Feversleep" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2139" centery="399" centerz="8" radius="1">
+	<spawn centerx="2139" centery="399" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1110" centery="400" centerz="8" radius="5">
@@ -17747,7 +17748,7 @@
 	<spawn centerx="1579" centery="403" centerz="8" radius="1">
 		<monster name="Terrorsleep" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2092" centery="404" centerz="8" radius="1">
+	<spawn centerx="2092" centery="404" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1543" centery="405" centerz="8" radius="1">
@@ -17796,13 +17797,13 @@
 	<spawn centerx="319" centery="410" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="275" centery="411" centerz="8" radius="1">
+	<spawn centerx="275" centery="411" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1541" centery="411" centerz="8" radius="1">
 		<monster name="Feversleep" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1555" centery="414" centerz="8" radius="1">
+	<spawn centerx="1555" centery="414" centerz="8" radius="1">
 		<monster name="Terrorsleep" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1182" centery="415" centerz="8" radius="1">
@@ -17829,7 +17830,7 @@
 	<spawn centerx="1177" centery="416" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1580" centery="417" centerz="8" radius="1">
+	<spawn centerx="1580" centery="417" centerz="8" radius="1">
 		<monster name="Feversleep" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1528" centery="418" centerz="8" radius="1">
@@ -17903,7 +17904,7 @@
 	<spawn centerx="1466" centery="422" centerz="8" radius="3">
 		<monster name="Demon Outcast" x="0" y="1" z="8" spawntime="90" />
 	</spawn>
-		<spawn centerx="1533" centery="423" centerz="8" radius="1">
+	<spawn centerx="1533" centery="423" centerz="8" radius="1">
 		<monster name="Feversleep" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="2043" centery="424" centerz="8" radius="1">
@@ -18043,13 +18044,13 @@
 	<spawn centerx="1531" centery="436" centerz="8" radius="1">
 		<monster name="Terrorsleep" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2107" centery="438" centerz="8" radius="1">
+	<spawn centerx="2107" centery="438" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1417" centery="441" centerz="8" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
-		<spawn centerx="1163" centery="443" centerz="8" radius="1">
+	<spawn centerx="1163" centery="443" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1410" centery="443" centerz="8" radius="3">
@@ -18083,7 +18084,7 @@
 	<spawn centerx="2121" centery="445" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2157" centery="447" centerz="8" radius="1">
+	<spawn centerx="2157" centery="447" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1130" centery="448" centerz="8" radius="1">
@@ -18124,7 +18125,7 @@
 	<spawn centerx="1480" centery="450" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-2" y="-2" z="8" spawntime="90" />
 	</spawn>
-		<spawn centerx="1183" centery="451" centerz="8" radius="1">
+	<spawn centerx="1183" centery="451" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="2173" centery="451" centerz="8" radius="1">
@@ -18187,7 +18188,7 @@
 	<spawn centerx="1417" centery="458" centerz="8" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
-		<spawn centerx="2178" centery="459" centerz="8" radius="1">
+	<spawn centerx="2178" centery="459" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1128" centery="461" centerz="8" radius="1">
@@ -18262,7 +18263,7 @@
 	<spawn centerx="516" centery="469" centerz="8" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="2186" centery="469" centerz="8" radius="1">
+	<spawn centerx="2186" centery="469" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1283" centery="470" centerz="8" radius="1">
@@ -18353,7 +18354,7 @@
 	<spawn centerx="1291" centery="475" centerz="8" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="2216" centery="475" centerz="8" radius="1">
+	<spawn centerx="2216" centery="475" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="2076" centery="476" centerz="8" radius="1">
@@ -18958,7 +18959,7 @@
 	<spawn centerx="1217" centery="636" centerz="8" radius="1">
 		<monster name="Fury" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1216" centery="640" centerz="8" radius="1">
+	<spawn centerx="1216" centery="640" centerz="8" radius="1">
 		<monster name="Fury" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1199" centery="641" centerz="8" radius="1">
@@ -18990,10 +18991,10 @@
 	<spawn centerx="1158" centery="652" centerz="8" radius="1">
 		<monster name="Hand of Cursed Fate" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1163" centery="653" centerz="8" radius="1">
+	<spawn centerx="1163" centery="653" centerz="8" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="406" centery="654" centerz="8" radius="10">
+	<spawn centerx="406" centery="654" centerz="8" radius="10">
 		<monster name="Dawnfire Asura" x="3" y="-8" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="4" y="-5" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="-5" y="-4" z="8" spawntime="60" />
@@ -19022,7 +19023,7 @@
 	<spawn centerx="1146" centery="662" centerz="8" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1169" centery="672" centerz="8" radius="1">
+	<spawn centerx="1169" centery="672" centerz="8" radius="1">
 		<monster name="Ironblight" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="384" centery="676" centerz="8" radius="10">
@@ -19043,7 +19044,7 @@
 		<monster name="Dawnfire Asura" x="1" y="9" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="5" y="9" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="432" centery="677" centerz="8" radius="10">
+	<spawn centerx="432" centery="677" centerz="8" radius="10">
 		<monster name="Dawnfire Asura" x="-10" y="-4" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="-6" y="-4" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="-1" y="-4" z="8" spawntime="60" />
@@ -19074,13 +19075,13 @@
 	<spawn centerx="1255" centery="679" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1167" centery="682" centerz="8" radius="1">
+	<spawn centerx="1167" centery="682" centerz="8" radius="1">
 		<monster name="Hero" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1179" centery="686" centerz="8" radius="1">
 		<monster name="Fury" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1167" centery="689" centerz="8" radius="1">
+	<spawn centerx="1167" centery="689" centerz="8" radius="1">
 		<monster name="Hero" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1186" centery="690" centerz="8" radius="1">
@@ -19141,7 +19142,7 @@
 	<spawn centerx="1176" centery="720" centerz="8" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="386" centery="727" centerz="8" radius="10">
+	<spawn centerx="386" centery="727" centerz="8" radius="10">
 		<monster name="Hellspawn" x="-1" y="-9" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="0" y="-8" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="-2" y="-7" z="8" spawntime="60" />
@@ -19168,7 +19169,7 @@
 		<monster name="Dawnfire Asura" x="-1" y="2" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="1" y="2" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="413" centery="740" centerz="8" radius="10">
+	<spawn centerx="413" centery="740" centerz="8" radius="10">
 		<monster name="Midnight Asura" x="0" y="-10" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="0" y="-8" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="2" y="-8" z="8" spawntime="60" />
@@ -19288,7 +19289,7 @@
 	<spawn centerx="1146" centery="881" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1179" centery="887" centerz="8" radius="1">
+	<spawn centerx="1179" centery="887" centerz="8" radius="1">
 		<monster name="Diabolic Imp" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1147" centery="888" centerz="8" radius="1">
@@ -19405,7 +19406,7 @@
 	<spawn centerx="1244" centery="917" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1053" centery="918" centerz="8" radius="30">
+	<spawn centerx="1053" centery="918" centerz="8" radius="30">
 		<monster name="Chakoya Windcaller" x="29" y="-20" z="8" spawntime="60" />
 		<monster name="Chakoya Toolshaper" x="28" y="-18" z="8" spawntime="60" />
 		<monster name="Chakoya Toolshaper" x="8" y="-16" z="8" spawntime="60" />
@@ -19527,10 +19528,10 @@
 	<spawn centerx="1252" centery="941" centerz="8" radius="1">
 		<monster name="Hand of Cursed Fate" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
-		<spawn centerx="1501" centery="959" centerz="8" radius="1">
+	<spawn centerx="1501" centery="959" centerz="8" radius="1">
 		<monster name="Glooth Golem" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1513" centery="961" centerz="8" radius="1">
+	<spawn centerx="1513" centery="961" centerz="8" radius="1">
 		<monster name="Glooth Brigand" x="1" y="-1" z="8" spawntime="120" />
 		<monster name="Glooth Bandit" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
@@ -19567,7 +19568,7 @@
 	<spawn centerx="1497" centery="973" centerz="8" radius="1">
 		<monster name="Glooth Brigand" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1512" centery="976" centerz="8" radius="1">
+	<spawn centerx="1512" centery="976" centerz="8" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1526" centery="976" centerz="8" radius="1">
@@ -19665,7 +19666,7 @@
 	<spawn centerx="1780" centery="1047" centerz="8" radius="1">
 		<monster name="Tortoise" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1686" centery="1067" centerz="8" radius="1">
+	<spawn centerx="1686" centery="1067" centerz="8" radius="1">
 		<monster name="Fury" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1684" centery="1068" centerz="8" radius="1">
@@ -19686,17 +19687,13 @@
 	<spawn centerx="1688" centery="1083" centerz="8" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-	<spawn centerx="2260" centery="1085" centerz="8" radius="1">
-		
-		<monster name="Darklight Emitter" x="-1" y="1" z="8" spawntime="120" />
-	</spawn>
 	<spawn centerx="1692" centery="1086" centerz="8" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1684" centery="1089" centerz="8" radius="1">
 		<monster name="Fury" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1691" centery="1091" centerz="8" radius="1">
+	<spawn centerx="1691" centery="1091" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1705" centery="1092" centerz="8" radius="1">
@@ -19705,7 +19702,7 @@
 	<spawn centerx="1680" centery="1093" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1695" centery="1097" centerz="8" radius="1">
+	<spawn centerx="1695" centery="1097" centerz="8" radius="1">
 		<monster name="Fury" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1702" centery="1098" centerz="8" radius="1">
@@ -19714,7 +19711,7 @@
 	<spawn centerx="1704" centery="1104" centerz="8" radius="1">
 		<monster name="Fury" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1700" centery="1108" centerz="8" radius="1">
+	<spawn centerx="1700" centery="1108" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1802" centery="1108" centerz="8" radius="1">
@@ -19723,7 +19720,7 @@
 	<spawn centerx="1822" centery="1108" centerz="8" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1784" centery="1109" centerz="8" radius="1">
+	<spawn centerx="1784" centery="1109" centerz="8" radius="1">
 		<monster name="Insectoid Worker" x="1" y="-1" z="8" spawntime="120" />
 		<monster name="Massive Earth Elemental" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
@@ -19737,7 +19734,7 @@
 		<monster name="Massive Earth Elemental" x="0" y="-1" z="8" spawntime="120" />
 		<monster name="Hydra" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1791" centery="1110" centerz="8" radius="1">
+	<spawn centerx="1791" centery="1110" centerz="8" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1794" centery="1110" centerz="8" radius="1">
@@ -19765,7 +19762,7 @@
 	<spawn centerx="1805" centery="1111" centerz="8" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1784" centery="1114" centerz="8" radius="1">
+	<spawn centerx="1784" centery="1114" centerz="8" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1824" centery="1115" centerz="8" radius="1">
@@ -19797,7 +19794,7 @@
 	<spawn centerx="1826" centery="1125" centerz="8" radius="1">
 		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1804" centery="1126" centerz="8" radius="1">
+	<spawn centerx="1804" centery="1126" centerz="8" radius="1">
 		<monster name="Medusa" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1784" centery="1127" centerz="8" radius="1">
@@ -19817,15 +19814,12 @@
 	<spawn centerx="1786" centery="1128" centerz="8" radius="1">
 		<monster name="Hydra" x="0" y="-1" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1514" centery="1130" centerz="8" radius="1">
+	<spawn centerx="1514" centery="1130" centerz="8" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1784" centery="1130" centerz="8" radius="1">
 		<monster name="Medusa" x="0" y="0" z="8" spawntime="120" />
 		<monster name="Leaf Golem" x="1" y="0" z="8" spawntime="120" />
-	</spawn>
-	<spawn centerx="2409" centery="1131" centerz="8" radius="1">
-		<monster name="Sopping Corpus" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1822" centery="1134" centerz="8" radius="1">
 		<monster name="Giant Spider" x="1" y="-1" z="8" spawntime="120" />
@@ -19844,7 +19838,7 @@
 	<spawn centerx="1823" centery="1139" centerz="8" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="1782" centery="1141" centerz="8" radius="1">
+	<spawn centerx="1782" centery="1141" centerz="8" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="1512" centery="1142" centerz="8" radius="1">
@@ -20072,10 +20066,10 @@
 	<spawn centerx="960" centery="1199" centerz="8" radius="1">
 		<npc name="Taerar" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2089" centery="1235" centerz="8" radius="1">
+	<spawn centerx="2089" centery="1235" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2094" centery="1237" centerz="8" radius="1">
+	<spawn centerx="2094" centery="1237" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="2107" centery="1237" centerz="8" radius="1">
@@ -20099,22 +20093,22 @@
 	<spawn centerx="2063" centery="1246" centerz="8" radius="1">
 		<monster name="Defiler" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2062" centery="1251" centerz="8" radius="1">
+	<spawn centerx="2062" centery="1251" centerz="8" radius="1">
 		<monster name="Defiler" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="2069" centery="1251" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2100" centery="1257" centerz="8" radius="1">
+	<spawn centerx="2100" centery="1257" centerz="8" radius="1">
 		<monster name="Defiler" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2055" centery="1258" centerz="8" radius="1">
+	<spawn centerx="2055" centery="1258" centerz="8" radius="1">
 		<monster name="Defiler" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="2105" centery="1258" centerz="8" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2073" centery="1259" centerz="8" radius="1">
+	<spawn centerx="2073" centery="1259" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="2112" centery="1261" centerz="8" radius="1">
@@ -20123,22 +20117,22 @@
 	<spawn centerx="2063" centery="1265" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2072" centery="1266" centerz="8" radius="1">
+	<spawn centerx="2072" centery="1266" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="2099" centery="1268" centerz="8" radius="1">
+	<spawn centerx="2099" centery="1268" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="2070" centery="1271" centerz="8" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="582" centery="1294" centerz="8" radius="1">
+	<spawn centerx="582" centery="1294" centerz="8" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="577" centery="1296" centerz="8" radius="1">
+	<spawn centerx="577" centery="1296" centerz="8" radius="1">
 		<monster name="Hydra" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="562" centery="1300" centerz="8" radius="1">
+	<spawn centerx="562" centery="1300" centerz="8" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="565" centery="1301" centerz="8" radius="1">
@@ -20195,7 +20189,7 @@
 	<spawn centerx="325" centery="1453" centerz="8" radius="1">
 		<monster name="Mutated Tiger" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="371" centery="1455" centerz="8" radius="1">
+	<spawn centerx="371" centery="1455" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="298" centery="1456" centerz="8" radius="1">
@@ -20234,7 +20228,7 @@
 	<spawn centerx="354" centery="1465" centerz="8" radius="1">
 		<monster name="Souleater" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="349" centery="1471" centerz="8" radius="1">
+	<spawn centerx="349" centery="1471" centerz="8" radius="1">
 		<monster name="Mutated Bat" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="287" centery="1478" centerz="8" radius="1">
@@ -20264,7 +20258,7 @@
 	<spawn centerx="276" centery="1489" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-		<spawn centerx="270" centery="1492" centerz="8" radius="1">
+	<spawn centerx="270" centery="1492" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
 	<spawn centerx="362" centery="1493" centerz="8" radius="1">
@@ -20318,20 +20312,7 @@
 	<spawn centerx="318" centery="1519" centerz="8" radius="1">
 		<monster name="Lizard Magistratus" x="0" y="0" z="8" spawntime="120" />
 	</spawn>
-	<spawn centerx="1401" centery="1650" centerz="8" radius="1">
-		
-		<monster name="Quara Raider" x="0" y="1" z="8" spawntime="120" />
-	</spawn>
-	<spawn centerx="1403" centery="1650" centerz="8" radius="1">
-		<monster name="Quara Plunderer" x="1" y="-1" z="8" spawntime="120" />
-	</spawn>
-	<spawn centerx="1401" centery="1683" centerz="8" radius="1">
-		
-		<monster name="Quara Plunderer" x="1" y="1" z="8" spawntime="120" />
-	</spawn>
-		<spawn centerx="1401" centery="1685" centerz="8" radius="1"><monster name="Quara Raider" x="1" y="1" z="8" spawntime="120" />
-	</spawn>
-		<spawn centerx="1205" centery="26" centerz="9" radius="1">
+	<spawn centerx="1205" centery="26" centerz="9" radius="1">
 		<monster name="Medusa" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1207" centery="28" centerz="9" radius="1">
@@ -20546,7 +20527,7 @@
 	<spawn centerx="458" centery="183" centerz="9" radius="1">
 		<monster name="Efreet" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="457" centery="187" centerz="9" radius="1">
+	<spawn centerx="457" centery="187" centerz="9" radius="1">
 		<monster name="Efreet" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="465" centery="187" centerz="9" radius="1">
@@ -20555,7 +20536,7 @@
 	<spawn centerx="499" centery="188" centerz="9" radius="1">
 		<monster name="Grim Reaper" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="499" centery="190" centerz="9" radius="1">
+	<spawn centerx="499" centery="190" centerz="9" radius="1">
 		<monster name="Nightmare Scion" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="502" centery="191" centerz="9" radius="1">
@@ -20564,7 +20545,7 @@
 	<spawn centerx="1046" centery="192" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1029" centery="193" centerz="9" radius="1">
+	<spawn centerx="1029" centery="193" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1057" centery="193" centerz="9" radius="1">
@@ -20576,7 +20557,7 @@
 	<spawn centerx="1056" centery="195" centerz="9" radius="1">
 		<monster name="Renegade Knight" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1032" centery="196" centerz="9" radius="1">
+	<spawn centerx="1032" centery="196" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1044" centery="196" centerz="9" radius="1">
@@ -20600,10 +20581,10 @@
 	<spawn centerx="1113" centery="197" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1082" centery="198" centerz="9" radius="1">
+	<spawn centerx="1082" centery="198" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="527" centery="201" centerz="9" radius="1">
+	<spawn centerx="527" centery="201" centerz="9" radius="1">
 		<monster name="Nightmare Scion" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1107" centery="201" centerz="9" radius="1">
@@ -20624,7 +20605,7 @@
 	<spawn centerx="523" centery="203" centerz="9" radius="1">
 		<monster name="Nightmare" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1045" centery="204" centerz="9" radius="1">
+	<spawn centerx="1045" centery="204" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1058" centery="204" centerz="9" radius="1">
@@ -20654,7 +20635,7 @@
 	<spawn centerx="1069" centery="207" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="226" centery="209" centerz="9" radius="1">
+	<spawn centerx="226" centery="209" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1037" centery="209" centerz="9" radius="1">
@@ -20684,7 +20665,7 @@
 	<spawn centerx="534" centery="211" centerz="9" radius="1">
 		<monster name="Nightmare" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="370" centery="212" centerz="9" radius="1">
+	<spawn centerx="370" centery="212" centerz="9" radius="1">
 		<monster name="Scarab" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="547" centery="212" centerz="9" radius="1">
@@ -20723,7 +20704,7 @@
 	<spawn centerx="547" centery="215" centerz="9" radius="1">
 		<monster name="Nightmare Scion" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1085" centery="215" centerz="9" radius="1">
+	<spawn centerx="1085" centery="215" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="501" centery="216" centerz="9" radius="1">
@@ -20732,7 +20713,7 @@
 	<spawn centerx="515" centery="216" centerz="9" radius="1">
 		<monster name="Nightmare" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1057" centery="216" centerz="9" radius="1">
+	<spawn centerx="1057" centery="216" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="226" centery="217" centerz="9" radius="1">
@@ -20747,10 +20728,10 @@
 	<spawn centerx="1095" centery="217" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1047" centery="218" centerz="9" radius="1">
+	<spawn centerx="1047" centery="218" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1102" centery="220" centerz="9" radius="1">
+	<spawn centerx="1102" centery="220" centerz="9" radius="1">
 		<monster name="Renegade Knight" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="525" centery="221" centerz="9" radius="1">
@@ -20792,7 +20773,7 @@
 	<spawn centerx="1069" centery="224" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1028" centery="225" centerz="9" radius="1">
+	<spawn centerx="1028" centery="225" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1037" centery="225" centerz="9" radius="1">
@@ -20814,7 +20795,7 @@
 	<spawn centerx="1076" centery="227" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1069" centery="228" centerz="9" radius="1">
+	<spawn centerx="1069" centery="228" centerz="9" radius="1">
 		<monster name="Vile Grandmaster" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="502" centery="229" centerz="9" radius="1">
@@ -20823,7 +20804,7 @@
 	<spawn centerx="199" centery="230" centerz="9" radius="1">
 		<monster name="Blood Priest" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1028" centery="230" centerz="9" radius="1">
+	<spawn centerx="1028" centery="230" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1059" centery="230" centerz="9" radius="1">
@@ -20957,7 +20938,7 @@
 	<spawn centerx="1103" centery="244" centerz="9" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="182" centery="247" centerz="9" radius="1">
+	<spawn centerx="182" centery="247" centerz="9" radius="1">
 		<monster name="Blood Priest" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="503" centery="248" centerz="9" radius="1">
@@ -21038,7 +21019,7 @@
 	<spawn centerx="508" centery="256" centerz="9" radius="1">
 		<monster name="Nightmare Scion" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="504" centery="257" centerz="9" radius="1">
+	<spawn centerx="504" centery="257" centerz="9" radius="1">
 		<monster name="Nightmare Scion" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="592" centery="257" centerz="9" radius="1">
@@ -21059,7 +21040,7 @@
 	<spawn centerx="618" centery="261" centerz="9" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="225" centery="262" centerz="9" radius="1">
+	<spawn centerx="225" centery="262" centerz="9" radius="1">
 		<monster name="Shadow Pupil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="353" centery="262" centerz="9" radius="1">
@@ -21101,23 +21082,23 @@
 	<spawn centerx="517" centery="268" centerz="9" radius="1">
 		<monster name="Nightmare Scion" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1379" centery="268" centerz="9" radius="1">
+	<spawn centerx="1379" centery="268" centerz="9" radius="1">
 		<monster name="Nightmare" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Destroyer" x="1" y="1" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="592" centery="269" centerz="9" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="225" centery="270" centerz="9" radius="1">
+	<spawn centerx="225" centery="270" centerz="9" radius="1">
 		<monster name="Bonelord" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="603" centery="270" centerz="9" radius="1">
 		<monster name="Minotaur Amazon" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="356" centery="271" centerz="9" radius="1">
+	<spawn centerx="356" centery="271" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="592" centery="272" centerz="9" radius="1">
+	<spawn centerx="592" centery="272" centerz="9" radius="1">
 		<monster name="Minotaur Amazon" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1928" centery="272" centerz="9" radius="1">
@@ -21132,7 +21113,7 @@
 	<spawn centerx="383" centery="275" centerz="9" radius="1">
 		<monster name="Vampire Bride" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="419" centery="276" centerz="9" radius="1">
+	<spawn centerx="419" centery="276" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1367" centery="276" centerz="9" radius="1">
@@ -21171,7 +21152,7 @@
 	<spawn centerx="346" centery="281" centerz="9" radius="1">
 		<monster name="Vampire Viscount" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1903" centery="281" centerz="9" radius="1">
+	<spawn centerx="1903" centery="281" centerz="9" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="350" centery="282" centerz="9" radius="1">
@@ -21180,7 +21161,7 @@
 	<spawn centerx="403" centery="282" centerz="9" radius="1">
 		<monster name="Vampire" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1347" centery="282" centerz="9" radius="1">
+	<spawn centerx="1347" centery="282" centerz="9" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="408" centery="283" centerz="9" radius="1">
@@ -21198,7 +21179,7 @@
 	<spawn centerx="363" centery="285" centerz="9" radius="1">
 		<monster name="Vampire Viscount" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1903" centery="285" centerz="9" radius="1">
+	<spawn centerx="1903" centery="285" centerz="9" radius="1">
 		<monster name="Centipede" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1947" centery="285" centerz="9" radius="1">
@@ -21213,7 +21194,7 @@
 	<spawn centerx="423" centery="287" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1944" centery="287" centerz="9" radius="1">
+	<spawn centerx="1944" centery="287" centerz="9" radius="1">
 		<monster name="Slime" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1351" centery="288" centerz="9" radius="1">
@@ -21249,19 +21230,19 @@
 	<spawn centerx="432" centery="292" centerz="9" radius="1">
 		<monster name="Vampire Bride" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1356" centery="292" centerz="9" radius="1">
+	<spawn centerx="1356" centery="292" centerz="9" radius="1">
 		<monster name="Nightmare Scion" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1378" centery="292" centerz="9" radius="1">
 		<monster name="Nightmare" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1939" centery="293" centerz="9" radius="1">
+	<spawn centerx="1939" centery="293" centerz="9" radius="1">
 		<monster name="Crocodile" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="353" centery="294" centerz="9" radius="1">
 		<monster name="Vampire" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1993" centery="294" centerz="9" radius="1">
+	<spawn centerx="1993" centery="294" centerz="9" radius="1">
 		<monster name="Slime" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="380" centery="295" centerz="9" radius="1">
@@ -21280,7 +21261,7 @@
 	<spawn centerx="1968" centery="298" centerz="9" radius="1">
 		<monster name="Slime" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="397" centery="300" centerz="9" radius="1">
+	<spawn centerx="397" centery="300" centerz="9" radius="1">
 		<monster name="Vampire Viscount" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="420" centery="300" centerz="9" radius="1">
@@ -21289,7 +21270,7 @@
 	<spawn centerx="379" centery="301" centerz="9" radius="1">
 		<monster name="Vampire" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="425" centery="302" centerz="9" radius="1">
+	<spawn centerx="425" centery="302" centerz="9" radius="1">
 		<monster name="Vampire Viscount" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="411" centery="303" centerz="9" radius="1">
@@ -22467,7 +22448,7 @@
 	<spawn centerx="583" centery="418" centerz="9" radius="1">
 		<monster name="Mutated Bat" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1426" centery="420" centerz="9" radius="1">
+	<spawn centerx="1426" centery="420" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
 	<spawn centerx="579" centery="421" centerz="9" radius="1">
@@ -22969,7 +22950,7 @@
 	<spawn centerx="1025" centery="500" centerz="9" radius="1">
 		<monster name="Monk" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="2168" centery="500" centerz="9" radius="1">
+	<spawn centerx="2168" centery="500" centerz="9" radius="1">
 		<monster name="Tortoise" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1018" centery="501" centerz="9" radius="1">
@@ -23898,13 +23879,13 @@
 		<monster name="Midnight Asura" x="-2" y="4" z="9" spawntime="120" />
 		<monster name="Midnight Asura" x="2" y="4" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1174" centery="644" centerz="9" radius="1">
+	<spawn centerx="1174" centery="644" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1214" centery="644" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1192" centery="649" centerz="9" radius="1">
+	<spawn centerx="1192" centery="649" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="414" centery="654" centerz="9" radius="10">
@@ -23928,25 +23909,25 @@
 	<spawn centerx="1225" centery="655" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1174" centery="657" centerz="9" radius="1">
+	<spawn centerx="1174" centery="657" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1192" centery="657" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1160" centery="661" centerz="9" radius="1">
+	<spawn centerx="1160" centery="661" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1178" centery="662" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1210" centery="666" centerz="9" radius="1">
+	<spawn centerx="1210" centery="666" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1193" centery="668" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1198" centery="678" centerz="9" radius="1">
+	<spawn centerx="1198" centery="678" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1232" centery="678" centerz="9" radius="1">
@@ -23997,19 +23978,19 @@
 	<spawn centerx="1221" centery="721" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1206" centery="733" centerz="9" radius="1">
+	<spawn centerx="1206" centery="733" centerz="9" radius="1">
 		<monster name="Diabolic Imp" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1205" centery="740" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1204" centery="744" centerz="9" radius="1">
+	<spawn centerx="1204" centery="744" centerz="9" radius="1">
 		<monster name="Warlock" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1206" centery="752" centerz="9" radius="1">
+	<spawn centerx="1206" centery="752" centerz="9" radius="1">
 		<monster name="Diabolic Imp" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-		<spawn centerx="1827" centery="899" centerz="9" radius="1">
+	<spawn centerx="1827" centery="899" centerz="9" radius="1">
 		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="120" />
 		<monster name="Lost Basher" x="1" y="1" z="9" spawntime="120" />
 	</spawn>
@@ -24191,7 +24172,7 @@
 	<spawn centerx="1775" centery="1048" centerz="9" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1803" centery="1051" centerz="9" radius="1">
+	<spawn centerx="1803" centery="1051" centerz="9" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1771" centery="1052" centerz="9" radius="1">
@@ -24200,19 +24181,19 @@
 	<spawn centerx="1792" centery="1052" centerz="9" radius="1">
 		<monster name="Crab" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1801" centery="1054" centerz="9" radius="1">
+	<spawn centerx="1801" centery="1054" centerz="9" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1770" centery="1055" centerz="9" radius="1">
+	<spawn centerx="1770" centery="1055" centerz="9" radius="1">
 		<monster name="Crab" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1794" centery="1055" centerz="9" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1793" centery="1058" centerz="9" radius="1">
+	<spawn centerx="1793" centery="1058" centerz="9" radius="1">
 		<monster name="Tortoise" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1773" centery="1061" centerz="9" radius="1">
+	<spawn centerx="1773" centery="1061" centerz="9" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1790" centery="1062" centerz="9" radius="1">
@@ -24233,7 +24214,7 @@
 	<spawn centerx="1678" centery="1071" centerz="9" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1673" centery="1074" centerz="9" radius="1">
+	<spawn centerx="1673" centery="1074" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1681" centery="1076" centerz="9" radius="1">
@@ -24260,17 +24241,17 @@
 	<spawn centerx="1824" centery="1090" centerz="9" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1790" centery="1091" centerz="9" radius="1">
+	<spawn centerx="1790" centery="1091" centerz="9" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1794" centery="1092" centerz="9" radius="1">
+	<spawn centerx="1794" centery="1092" centerz="9" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="9" spawntime="120" />
 		<monster name="Blightwalker" x="0" y="1" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1805" centery="1092" centerz="9" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1703" centery="1093" centerz="9" radius="1">
+	<spawn centerx="1703" centery="1093" centerz="9" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1786" centery="1093" centerz="9" radius="1">
@@ -24297,7 +24278,7 @@
 	<spawn centerx="1817" centery="1094" centerz="9" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1700" centery="1095" centerz="9" radius="1">
+	<spawn centerx="1700" centery="1095" centerz="9" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1804" centery="1095" centerz="9" radius="1">
@@ -24312,13 +24293,13 @@
 	<spawn centerx="1839" centery="1096" centerz="9" radius="1">
 		<monster name="Hydra" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1803" centery="1097" centerz="9" radius="1">
+	<spawn centerx="1803" centery="1097" centerz="9" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1700" centery="1098" centerz="9" radius="1">
 		<monster name="Fury" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1838" centery="1099" centerz="9" radius="1">
+	<spawn centerx="1838" centery="1099" centerz="9" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1840" centery="1100" centerz="9" radius="1">
@@ -24354,7 +24335,7 @@
 	<spawn centerx="1824" centery="1108" centerz="9" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1802" centery="1110" centerz="9" radius="1">
+	<spawn centerx="1802" centery="1110" centerz="9" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1806" centery="1110" centerz="9" radius="1">
@@ -24504,7 +24485,7 @@
 	<spawn centerx="1935" centery="1146" centerz="9" radius="1">
 		<monster name="Demon" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="1881" centery="1147" centerz="9" radius="1">
+	<spawn centerx="1881" centery="1147" centerz="9" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="1933" centery="1147" centerz="9" radius="1">
@@ -24700,7 +24681,7 @@
 	<spawn centerx="315" centery="1454" centerz="9" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="351" centery="1460" centerz="9" radius="1">
+	<spawn centerx="351" centery="1460" centerz="9" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="369" centery="1460" centerz="9" radius="1">
@@ -24736,7 +24717,7 @@
 	<spawn centerx="337" centery="1477" centerz="9" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="297" centery="1480" centerz="9" radius="1">
+	<spawn centerx="297" centery="1480" centerz="9" radius="1">
 		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="269" centery="1481" centerz="9" radius="1">
@@ -24754,7 +24735,7 @@
 	<spawn centerx="295" centery="1484" centerz="9" radius="1">
 		<monster name="Lizard Zaogun" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-		<spawn centerx="345" centery="1486" centerz="9" radius="1">
+	<spawn centerx="345" centery="1486" centerz="9" radius="1">
 		<monster name="Souleater" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
 	<spawn centerx="338" centery="1487" centerz="9" radius="1">
@@ -26571,10 +26552,10 @@
 	<spawn centerx="2188" centery="618" centerz="10" radius="1">
 		<monster name="Crypt Shambler" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="2175" centery="619" centerz="10" radius="1">
+	<spawn centerx="2175" centery="619" centerz="10" radius="1">
 		<monster name="Stone Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="2218" centery="621" centerz="10" radius="1">
+	<spawn centerx="2218" centery="621" centerz="10" radius="1">
 		<monster name="Stone Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="2202" centery="626" centerz="10" radius="1">
@@ -26732,7 +26713,6 @@
 		<monster name="Lost Soul" x="1" y="-1" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="1828" centery="898" centerz="10" radius="1">
-		
 		<monster name="Lost Berserker" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1165" centery="899" centerz="10" radius="1">
@@ -27124,13 +27104,13 @@
 	<spawn centerx="1683" centery="1068" centerz="10" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1685" centery="1075" centerz="10" radius="1">
+	<spawn centerx="1685" centery="1075" centerz="10" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1688" centery="1084" centerz="10" radius="1">
+	<spawn centerx="1688" centery="1084" centerz="10" radius="1">
 		<monster name="Fury" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1685" centery="1086" centerz="10" radius="1">
+	<spawn centerx="1685" centery="1086" centerz="10" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1679" centery="1087" centerz="10" radius="1">
@@ -27142,19 +27122,19 @@
 	<spawn centerx="1707" centery="1088" centerz="10" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1679" centery="1091" centerz="10" radius="1">
+	<spawn centerx="1679" centery="1091" centerz="10" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1702" centery="1093" centerz="10" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1677" centery="1096" centerz="10" radius="1">
+	<spawn centerx="1677" centery="1096" centerz="10" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1690" centery="1097" centerz="10" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1682" centery="1101" centerz="10" radius="1">
+	<spawn centerx="1682" centery="1101" centerz="10" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1693" centery="1107" centerz="10" radius="1">
@@ -27163,7 +27143,7 @@
 	<spawn centerx="1691" centery="1111" centerz="10" radius="1">
 		<monster name="Fury" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1519" centery="1126" centerz="10" radius="1">
+	<spawn centerx="1519" centery="1126" centerz="10" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1509" centery="1134" centerz="10" radius="1">
@@ -27175,19 +27155,16 @@
 	<spawn centerx="1511" centery="1139" centerz="10" radius="1">
 		<monster name="Rotworm Queen" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-	<spawn centerx="2259" centery="1143" centerz="10" radius="1">
-		<monster name="Rotten Man-Maggot" x="-1" y="-1" z="10" spawntime="120" />
-	</spawn>
-		<spawn centerx="1530" centery="1145" centerz="10" radius="1">
+	<spawn centerx="1530" centery="1145" centerz="10" radius="1">
 		<monster name="Rotworm Queen" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1593" centery="1145" centerz="10" radius="1">
 		<npc name="Yasir" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1515" centery="1149" centerz="10" radius="1">
+	<spawn centerx="1515" centery="1149" centerz="10" radius="1">
 		<monster name="Rotworm Queen" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1500" centery="1153" centerz="10" radius="1">
+	<spawn centerx="1500" centery="1153" centerz="10" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1580" centery="1153" centerz="10" radius="1">
@@ -27196,11 +27173,7 @@
 	<spawn centerx="1512" centery="1156" centerz="10" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="2412" centery="1209" centerz="10" radius="1">
-		<monster name="Darklight Matter" x="0" y="0" z="10" spawntime="120" />
-		<monster name="Darklight Emitter" x="-1" y="1" z="10" spawntime="120" />
-	</spawn>
-		<spawn centerx="2133" centery="1260" centerz="10" radius="1">
+	<spawn centerx="2133" centery="1260" centerz="10" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="2102" centery="1269" centerz="10" radius="1">
@@ -27242,7 +27215,7 @@
 	<spawn centerx="2115" centery="1291" centerz="10" radius="1">
 		<monster name="Defiler" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="2173" centery="1292" centerz="10" radius="1">
+	<spawn centerx="2173" centery="1292" centerz="10" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="2157" centery="1293" centerz="10" radius="1">
@@ -27266,7 +27239,7 @@
 	<spawn centerx="2138" centery="1297" centerz="10" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="616" centery="1298" centerz="10" radius="1">
+	<spawn centerx="616" centery="1298" centerz="10" radius="1">
 		<monster name="Medusa" x="0" y="0" z="10" spawntime="120" />
 		<monster name="Betrayed Wraith" x="0" y="1" z="10" spawntime="120" />
 	</spawn>
@@ -27368,7 +27341,7 @@
 	<spawn centerx="1698" centery="1321" centerz="10" radius="1">
 		<monster name="Werewolf" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="2116" centery="1321" centerz="10" radius="1">
+	<spawn centerx="2116" centery="1321" centerz="10" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1695" centery="1322" centerz="10" radius="1">
@@ -27380,7 +27353,7 @@
 	<spawn centerx="2096" centery="1323" centerz="10" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="1704" centery="1324" centerz="10" radius="1">
+	<spawn centerx="1704" centery="1324" centerz="10" radius="1">
 		<monster name="Askarak Prince" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="1635" centery="1328" centerz="10" radius="1">
@@ -27606,10 +27579,10 @@
 		<monster name="Ghastly Dragon" x="0" y="0" z="10" spawntime="120" />
 		<monster name="Ghastly Dragon" x="1" y="1" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="823" centery="1879" centerz="10" radius="1">
+	<spawn centerx="823" centery="1879" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="897" centery="1880" centerz="10" radius="1">
+	<spawn centerx="897" centery="1880" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="810" centery="1881" centerz="10" radius="1">
@@ -27621,19 +27594,19 @@
 	<spawn centerx="797" centery="1882" centerz="10" radius="1">
 		<monster name="Lava Golem" x="-1" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="840" centery="1884" centerz="10" radius="1">
+	<spawn centerx="840" centery="1884" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="867" centery="1885" centerz="10" radius="1">
 		<monster name="Shaburak Prince" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="811" centery="1886" centerz="10" radius="1">
+	<spawn centerx="811" centery="1886" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="819" centery="1892" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="846" centery="1897" centerz="10" radius="1">
+	<spawn centerx="846" centery="1897" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="830" centery="1898" centerz="10" radius="1">
@@ -27648,7 +27621,7 @@
 	<spawn centerx="803" centery="1901" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="814" centery="1911" centerz="10" radius="1">
+	<spawn centerx="814" centery="1911" centerz="10" radius="1">
 		<monster name="Shaburak Prince" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="825" centery="1911" centerz="10" radius="1">
@@ -27672,7 +27645,7 @@
 	<spawn centerx="826" centery="1936" centerz="10" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
-		<spawn centerx="826" centery="1943" centerz="10" radius="1">
+	<spawn centerx="826" centery="1943" centerz="10" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="10" spawntime="120" />
 	</spawn>
 	<spawn centerx="829" centery="1954" centerz="10" radius="1">
@@ -27846,18 +27819,18 @@
 	<spawn centerx="1324" centery="273" centerz="11" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
-		<spawn centerx="628" centery="276" centerz="11" radius="1">
+	<spawn centerx="628" centery="276" centerz="11" radius="1">
 		<monster name="Glooth Anemone" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="409" centery="277" centerz="11" radius="8">
 		<monster name="Defiler" x="-2" y="-2" z="11" spawntime="60" />
-				<monster name="Defiler" x="5" y="3" z="11" spawntime="60" />
+		<monster name="Defiler" x="5" y="3" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="624" centery="277" centerz="11" radius="1">
 		<monster name="Glooth Anemone" x="1" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="441" centery="280" centerz="11" radius="8">
-				<monster name="Defiler" x="3" y="-1" z="11" spawntime="60" />
+		<monster name="Defiler" x="3" y="-1" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="1316" centery="281" centerz="11" radius="1">
 		<monster name="Ironblight" x="0" y="-1" z="11" spawntime="60" />
@@ -27921,7 +27894,8 @@
 	<spawn centerx="2245" centery="315" centerz="11" radius="1">
 		<monster name="Scarab" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-	<spawn centerx="470" centery="318" centerz="11" radius="8"><monster name="Defiler" x="-3" y="2" z="11" spawntime="60" />
+	<spawn centerx="470" centery="318" centerz="11" radius="8">
+		<monster name="Defiler" x="-3" y="2" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="2233" centery="318" centerz="11" radius="1">
 		<monster name="Scarab" x="0" y="0" z="11" spawntime="120" />
@@ -27936,7 +27910,8 @@
 		<monster name="Defiler" x="2" y="-4" z="11" spawntime="60" />
 		<monster name="Plaguesmith" x="4" y="-3" z="11" spawntime="60" />
 	</spawn>
-	<spawn centerx="415" centery="328" centerz="11" radius="8"><monster name="Plaguesmith" x="-8" y="1" z="11" spawntime="60" />
+	<spawn centerx="415" centery="328" centerz="11" radius="8">
+		<monster name="Plaguesmith" x="-8" y="1" z="11" spawntime="60" />
 		<monster name="Defiler" x="2" y="2" z="11" spawntime="60" />
 		<monster name="Plaguesmith" x="2" y="4" z="11" spawntime="60" />
 	</spawn>
@@ -27944,7 +27919,7 @@
 		<monster name="Plaguesmith" x="-1" y="-1" z="11" spawntime="60" />
 		<monster name="Defiler" x="2" y="-1" z="11" spawntime="60" />
 	</spawn>
-		<spawn centerx="477" centery="338" centerz="11" radius="8">
+	<spawn centerx="477" centery="338" centerz="11" radius="8">
 		<monster name="Plaguesmith" x="4" y="-7" z="11" spawntime="60" />
 		<monster name="Plaguesmith" x="3" y="2" z="11" spawntime="60" />
 		<monster name="Plaguesmith" x="-5" y="3" z="11" spawntime="60" />
@@ -27952,7 +27927,6 @@
 	</spawn>
 	<spawn centerx="446" centery="352" centerz="11" radius="8">
 		<monster name="Plaguesmith" x="0" y="-5" z="11" spawntime="60" />
-				
 		<monster name="Plaguesmith" x="-7" y="3" z="11" spawntime="60" />
 		<monster name="Plaguesmith" x="4" y="3" z="11" spawntime="60" />
 	</spawn>
@@ -28039,17 +28013,20 @@
 		<monster name="Fire Devil" x="0" y="0" z="11" spawntime="90" />
 	</spawn>
 	<spawn centerx="486" centery="390" centerz="11" radius="8">
-		<monster name="Plaguesmith" x="5" y="-1" z="11" spawntime="60" /><monster name="Plaguesmith" x="-8" y="3" z="11" spawntime="60" />
+		<monster name="Plaguesmith" x="5" y="-1" z="11" spawntime="60" />
+		<monster name="Plaguesmith" x="-8" y="3" z="11" spawntime="60" />
 		<monster name="Plaguesmith" x="-4" y="5" z="11" spawntime="60" />
 	</spawn>
-	<spawn centerx="450" centery="391" centerz="11" radius="8"><monster name="Plaguesmith" x="-1" y="4" z="11" spawntime="60" />
+	<spawn centerx="450" centery="391" centerz="11" radius="8">
+		<monster name="Plaguesmith" x="-1" y="4" z="11" spawntime="60" />
 		<monster name="Plaguesmith" x="-4" y="6" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="1130" centery="391" centerz="11" radius="1">
 		<monster name="Banshee" x="0" y="0" z="11" spawntime="90" />
 	</spawn>
 	<spawn centerx="411" centery="395" centerz="11" radius="8">
-		<monster name="Plaguesmith" x="4" y="-5" z="11" spawntime="60" /><monster name="Plaguesmith" x="5" y="2" z="11" spawntime="60" />
+		<monster name="Plaguesmith" x="4" y="-5" z="11" spawntime="60" />
+		<monster name="Plaguesmith" x="5" y="2" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="427" centery="395" centerz="11" radius="8">
 		<monster name="Plaguesmith" x="-2" y="0" z="11" spawntime="60" />
@@ -28576,7 +28553,7 @@
 	<spawn centerx="928" centery="658" centerz="11" radius="1">
 		<monster name="Giant Spider" x="0" y="-1" z="11" spawntime="60" />
 	</spawn>
-		<spawn centerx="897" centery="660" centerz="11" radius="1">
+	<spawn centerx="897" centery="660" centerz="11" radius="1">
 		<monster name="Shaburak Lord" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="927" centery="660" centerz="11" radius="1">
@@ -28630,7 +28607,6 @@
 		<monster name="Lost Berserker" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="1829" centery="900" centerz="11" radius="1">
-		
 		<monster name="Lost Berserker" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="1827" centery="903" centerz="11" radius="1">
@@ -28734,24 +28710,20 @@
 	<spawn centerx="1713" centery="1102" centerz="11" radius="1">
 		<monster name="Fury" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-		<spawn centerx="2298" centery="1125" centerz="11" radius="1"><monster name="Rotten Man-Maggot" x="-1" y="1" z="11" spawntime="120" />
-	</spawn>
-		<spawn centerx="1576" centery="1139" centerz="11" radius="1">
+	<spawn centerx="1576" centery="1139" centerz="11" radius="1">
 		<npc name="Sam" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-		<spawn centerx="1594" centery="1144" centerz="11" radius="1">
+	<spawn centerx="1594" centery="1144" centerz="11" radius="1">
 		<npc name="Banker" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="1580" centery="1146" centerz="11" radius="1">
 		<npc name="Asnarus" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-		<spawn centerx="1583" centery="1154" centerz="11" radius="1">
+	<spawn centerx="1583" centery="1154" centerz="11" radius="1">
 		<npc name="Hanna" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="1593" centery="1156" centerz="11" radius="1">
 		<npc name="Yaman" x="0" y="0" z="11" spawntime="120" />
-	</spawn>
-	<spawn centerx="2294" centery="1161" centerz="11" radius="1"><monster name="Rotten Man-Maggot" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="2080" centery="1280" centerz="11" radius="1">
 		<monster name="Defiler" x="0" y="0" z="11" spawntime="120" />
@@ -28770,14 +28742,12 @@
 	</spawn>
 	<spawn centerx="2082" centery="1294" centerz="11" radius="1">
 		<monster name="Dark Torturer" x="0" y="-1" z="11" spawntime="120" />
-		
 	</spawn>
 	<spawn centerx="2080" centery="1297" centerz="11" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="2083" centery="1298" centerz="11" radius="1">
 		<monster name="Hand of Cursed Fate" x="1" y="-1" z="11" spawntime="120" />
-		
 	</spawn>
 	<spawn centerx="631" centery="1301" centerz="11" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="11" spawntime="120" />
@@ -28785,12 +28755,14 @@
 	<spawn centerx="2082" centery="1301" centerz="11" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-	<spawn centerx="2079" centery="1303" centerz="11" radius="1"><monster name="Juggernaut" x="-1" y="1" z="11" spawntime="120" />
+	<spawn centerx="2079" centery="1303" centerz="11" radius="1">
+		<monster name="Juggernaut" x="-1" y="1" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="2082" centery="1303" centerz="11" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-	<spawn centerx="2084" centery="1303" centerz="11" radius="1"><monster name="Hand of Cursed Fate" x="1" y="0" z="11" spawntime="120" />
+	<spawn centerx="2084" centery="1303" centerz="11" radius="1">
+		<monster name="Hand of Cursed Fate" x="1" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="633" centery="1304" centerz="11" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="11" spawntime="120" />
@@ -28802,16 +28774,15 @@
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="2080" centery="1305" centerz="11" radius="1">
-		
 		<monster name="Hand of Cursed Fate" x="1" y="1" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="2077" centery="1306" centerz="11" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-		<spawn centerx="634" centery="1308" centerz="11" radius="1">
+	<spawn centerx="634" centery="1308" centerz="11" radius="1">
 		<monster name="Demon" x="0" y="0" z="11" spawntime="120" />
 	</spawn>
-		<spawn centerx="2084" centery="1308" centerz="11" radius="1">
+	<spawn centerx="2084" centery="1308" centerz="11" radius="1">
 		<monster name="Demon Outcast" x="-1" y="-1" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="2080" centery="1311" centerz="11" radius="1">
@@ -28930,8 +28901,6 @@
 	</spawn>
 	<spawn centerx="1641" centery="1362" centerz="11" radius="1">
 		<monster name="Shaburak Prince" x="-1" y="0" z="11" spawntime="120" />
-	</spawn>
-	<spawn centerx="220" centery="1602" centerz="11" radius="1"><monster name="doombone" x="0" y="1" z="11" spawntime="120" />
 	</spawn>
 	<spawn centerx="779" centery="1963" centerz="11" radius="1">
 		<monster name="Orshabaal" x="0" y="0" z="11" spawntime="120" />
@@ -30006,8 +29975,10 @@
 	<spawn centerx="2246" centery="294" centerz="12" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
-	<spawn centerx="419" centery="297" centerz="12" radius="7"><monster name="Dark Torturer" x="4" y="-3" z="12" spawntime="60" />
-		<monster name="Dark Torturer" x="0" y="-1" z="12" spawntime="60" /><monster name="Demon" x="3" y="3" z="12" spawntime="60" />
+	<spawn centerx="419" centery="297" centerz="12" radius="7">
+		<monster name="Dark Torturer" x="4" y="-3" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="0" y="-1" z="12" spawntime="60" />
+		<monster name="Demon" x="3" y="3" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="2" y="5" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="711" centery="300" centerz="12" radius="1">
@@ -30020,8 +29991,10 @@
 		<monster name="Dark Torturer" x="0" y="0" z="12" spawntime="1800" />
 	</spawn>
 	<spawn centerx="507" centery="304" centerz="12" radius="7">
-		<monster name="Dark Torturer" x="1" y="-4" z="12" spawntime="60" /><monster name="Demon" x="2" y="-1" z="12" spawntime="60" />
-		<monster name="Dark Torturer" x="5" y="0" z="12" spawntime="60" /><monster name="Dark Torturer" x="-4" y="3" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="-4" z="12" spawntime="60" />
+		<monster name="Demon" x="2" y="-1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="5" y="0" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-4" y="3" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="3" y="3" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="459" centery="305" centerz="12" radius="1">
@@ -30036,7 +30009,8 @@
 	<spawn centerx="676" centery="308" centerz="12" radius="1">
 		<monster name="Crawler" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
-	<spawn centerx="539" centery="309" centerz="12" radius="7"><monster name="Dark Torturer" x="-1" y="-1" z="12" spawntime="60" />
+	<spawn centerx="539" centery="309" centerz="12" radius="7">
+		<monster name="Dark Torturer" x="-1" y="-1" z="12" spawntime="60" />
 		<monster name="Demon" x="1" y="5" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="676" centery="312" centerz="12" radius="1">
@@ -30068,7 +30042,8 @@
 	</spawn>
 	<spawn centerx="472" centery="322" centerz="12" radius="5">
 		<monster name="Dark Torturer" x="4" y="-3" z="12" spawntime="60" />
-		<monster name="Dark Torturer" x="-3" y="-1" z="12" spawntime="60" /><monster name="Dark Torturer" x="-2" y="2" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-3" y="-1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-2" y="2" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="495" centery="324" centerz="12" radius="5">
 		<monster name="Dark Torturer" x="-3" y="0" z="12" spawntime="60" />
@@ -30076,7 +30051,8 @@
 		<monster name="Dark Torturer" x="4" y="1" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="-1" y="3" z="12" spawntime="60" />
 	</spawn>
-	<spawn centerx="415" centery="325" centerz="12" radius="7"><monster name="Dark Torturer" x="5" y="-1" z="12" spawntime="60" />
+	<spawn centerx="415" centery="325" centerz="12" radius="7">
+		<monster name="Dark Torturer" x="5" y="-1" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="-1" y="0" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="710" centery="325" centerz="12" radius="1">
@@ -30095,18 +30071,22 @@
 		<monster name="Crawler" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="450" centery="339" centerz="12" radius="5">
-		<monster name="Dark Torturer" x="-1" y="-3" z="12" spawntime="60" /><monster name="Dark Torturer" x="-1" y="2" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-1" y="-3" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-1" y="2" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="415" centery="344" centerz="12" radius="7">
-		<monster name="Dark Torturer" x="-2" y="-3" z="12" spawntime="60" /><monster name="Dark Torturer" x="0" y="2" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-2" y="-3" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="0" y="2" z="12" spawntime="60" />
 		<monster name="Demon" x="2" y="2" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="3" y="5" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="495" centery="345" centerz="12" radius="5">
 		<monster name="Dark Torturer" x="4" y="-4" z="12" spawntime="1800" />
-		<monster name="Dark Torturer" x="-3" y="-2" z="12" spawntime="60" /><monster name="Dark Torturer" x="3" y="1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-3" y="-2" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="3" y="1" z="12" spawntime="60" />
 	</spawn>
-	<spawn centerx="471" centery="346" centerz="12" radius="5"><monster name="Demon" x="-4" y="3" z="12" spawntime="60" />
+	<spawn centerx="471" centery="346" centerz="12" radius="5">
+		<monster name="Demon" x="-4" y="3" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="436" centery="353" centerz="12" radius="7">
 		<monster name="Dark Torturer" x="0" y="-4" z="12" spawntime="60" />
@@ -30114,13 +30094,16 @@
 	</spawn>
 	<spawn centerx="519" centery="353" centerz="12" radius="7">
 		<monster name="Dark Torturer" x="4" y="-2" z="12" spawntime="60" />
-		<monster name="Demon" x="2" y="-1" z="12" spawntime="60" /><monster name="Dark Torturer" x="-6" y="3" z="12" spawntime="60" />
+		<monster name="Demon" x="2" y="-1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-6" y="3" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="401" centery="357" centerz="12" radius="7">
-		<monster name="Dark Torturer" x="2" y="1" z="12" spawntime="60" /><monster name="Dark Torturer" x="5" y="7" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="2" y="1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="5" y="7" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="489" centery="364" centerz="12" radius="7">
-		<monster name="Dark Torturer" x="6" y="-6" z="12" spawntime="60" /><monster name="Dark Torturer" x="-1" y="-1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="6" y="-6" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-1" y="-1" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="5" y="3" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="-6" y="4" z="12" spawntime="60" />
 	</spawn>
@@ -30129,9 +30112,11 @@
 	</spawn>
 	<spawn centerx="411" centery="370" centerz="12" radius="7">
 		<monster name="Dark Torturer" x="4" y="-1" z="12" spawntime="60" />
-		<monster name="Dark Torturer" x="-3" y="1" z="12" spawntime="60" /><monster name="Dark Torturer" x="-2" y="5" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-3" y="1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-2" y="5" z="12" spawntime="60" />
 	</spawn>
-	<spawn centerx="475" centery="371" centerz="12" radius="7"><monster name="Dark Torturer" x="-2" y="0" z="12" spawntime="60" />
+	<spawn centerx="475" centery="371" centerz="12" radius="7">
+		<monster name="Dark Torturer" x="-2" y="0" z="12" spawntime="60" />
 		<monster name="Dark Torturer" x="4" y="2" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="207" centery="372" centerz="12" radius="1">
@@ -30144,7 +30129,9 @@
 		<monster name="Lava Golem" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="448" centery="375" centerz="12" radius="7">
-		<monster name="Dark Torturer" x="5" y="-5" z="12" spawntime="60" /><monster name="Dark Torturer" x="-3" y="1" z="12" spawntime="60" /><monster name="Dark Torturer" x="5" y="3" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="5" y="-5" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="-3" y="1" z="12" spawntime="60" />
+		<monster name="Dark Torturer" x="5" y="3" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="190" centery="378" centerz="12" radius="1">
 		<monster name="Lava Golem" x="0" y="0" z="12" spawntime="120" />
@@ -30203,7 +30190,7 @@
 	<spawn centerx="1067" centery="565" centerz="12" radius="1">
 		<monster name="Demon" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
-		<spawn centerx="1827" centery="893" centerz="12" radius="1">
+	<spawn centerx="1827" centery="893" centerz="12" radius="1">
 		<monster name="Enslaved Dwarf" x="0" y="0" z="12" spawntime="120" />
 		<monster name="Lost Berserker" x="0" y="1" z="12" spawntime="120" />
 	</spawn>
@@ -30353,7 +30340,7 @@
 	<spawn centerx="1580" centery="1146" centerz="12" radius="1">
 		<npc name="Xodet" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
-		<spawn centerx="635" centery="1337" centerz="12" radius="1">
+	<spawn centerx="635" centery="1337" centerz="12" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
 	<spawn centerx="641" centery="1337" centerz="12" radius="1">
@@ -30399,10 +30386,10 @@
 	<spawn centerx="763" centery="1952" centerz="12" radius="1">
 		<monster name="Guzzlemaw" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
-		<spawn centerx="751" centery="1960" centerz="12" radius="1">
+	<spawn centerx="751" centery="1960" centerz="12" radius="1">
 		<monster name="Guzzlemaw" x="-1" y="0" z="12" spawntime="120" />
 	</spawn>
-		<spawn centerx="789" centery="1967" centerz="12" radius="1">
+	<spawn centerx="789" centery="1967" centerz="12" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
 	<spawn centerx="783" centery="1968" centerz="12" radius="1">
@@ -30420,7 +30407,7 @@
 	<spawn centerx="801" centery="1972" centerz="12" radius="1">
 		<monster name="Grim Reaper" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
-		<spawn centerx="798" centery="1973" centerz="12" radius="1">
+	<spawn centerx="798" centery="1973" centerz="12" radius="1">
 		<monster name="Grim Reaper" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
 	<spawn centerx="763" centery="1979" centerz="12" radius="1">
@@ -30431,10 +30418,6 @@
 	</spawn>
 	<spawn centerx="769" centery="1989" centerz="12" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="12" spawntime="120" />
-	</spawn>
-		<spawn centerx="561" centery="2200" centerz="12" radius="1">
-		
-		<monster name="fangclaw" x="0" y="0" z="12" spawntime="120" />
 	</spawn>
 	<spawn centerx="455" centery="171" centerz="13" radius="1">
 		<monster name="Marid" x="0" y="0" z="13" spawntime="60" />
@@ -30616,7 +30599,7 @@
 	<spawn centerx="497" centery="538" centerz="13" radius="1">
 		<monster name="Insectoid Worker" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
-		<spawn centerx="510" centery="545" centerz="13" radius="1">
+	<spawn centerx="510" centery="545" centerz="13" radius="1">
 		<monster name="Insectoid Worker" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="513" centery="546" centerz="13" radius="1">
@@ -30649,22 +30632,22 @@
 	<spawn centerx="525" centery="565" centerz="13" radius="1">
 		<monster name="Hive Overseer" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
-		<spawn centerx="540" centery="569" centerz="13" radius="1">
+	<spawn centerx="540" centery="569" centerz="13" radius="1">
 		<monster name="Hive Overseer" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
 	<spawn centerx="548" centery="569" centerz="13" radius="1">
 		<monster name="Kollos" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
-		<spawn centerx="533" centery="570" centerz="13" radius="1">
+	<spawn centerx="533" centery="570" centerz="13" radius="1">
 		<monster name="Waspoid" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
 	<spawn centerx="1051" centery="570" centerz="13" radius="1">
 		<monster name="Demon" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
-		<spawn centerx="534" centery="573" centerz="13" radius="1">
+	<spawn centerx="534" centery="573" centerz="13" radius="1">
 		<monster name="Kollos" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
-		<spawn centerx="1721" centery="988" centerz="13" radius="1">
+	<spawn centerx="1721" centery="988" centerz="13" radius="1">
 		<monster name="Worker Golem" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
 	<spawn centerx="1737" centery="988" centerz="13" radius="1">
@@ -30713,13 +30696,13 @@
 	<spawn centerx="1735" centery="1059" centerz="13" radius="1">
 		<monster name="Fury" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
-		<spawn centerx="1739" centery="1061" centerz="13" radius="1">
+	<spawn centerx="1739" centery="1061" centerz="13" radius="1">
 		<monster name="Fury" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
 	<spawn centerx="1736" centery="1062" centerz="13" radius="1">
 		<monster name="Ironblight" x="-1" y="0" z="13" spawntime="120" />
 	</spawn>
-		<spawn centerx="1743" centery="1064" centerz="13" radius="1">
+	<spawn centerx="1743" centery="1064" centerz="13" radius="1">
 		<monster name="Ironblight" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
 	<spawn centerx="1738" centery="1066" centerz="13" radius="1">
@@ -30731,7 +30714,7 @@
 	<spawn centerx="1735" centery="1067" centerz="13" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
-		<spawn centerx="641" centery="1336" centerz="13" radius="1">
+	<spawn centerx="641" centery="1336" centerz="13" radius="1">
 		<monster name="Magma Crawler" x="0" y="0" z="13" spawntime="120" />
 	</spawn>
 	<spawn centerx="643" centery="1336" centerz="13" radius="1">
@@ -30776,7 +30759,7 @@
 	<spawn centerx="555" centery="553" centerz="14" radius="1">
 		<monster name="Spidris Elite" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
-		<spawn centerx="576" centery="558" centerz="14" radius="1">
+	<spawn centerx="576" centery="558" centerz="14" radius="1">
 		<monster name="Spidris Elite" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
 	<spawn centerx="593" centery="558" centerz="14" radius="1">
@@ -30791,7 +30774,7 @@
 	<spawn centerx="594" centery="565" centerz="14" radius="1">
 		<monster name="Spidris Elite" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
-		<spawn centerx="574" centery="573" centerz="14" radius="1">
+	<spawn centerx="574" centery="573" centerz="14" radius="1">
 		<monster name="Ancient Scarab" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
 	<spawn centerx="595" centery="574" centerz="14" radius="1">
@@ -30945,10 +30928,6 @@
 	<spawn centerx="613" centery="1284" centerz="14" radius="1">
 		<monster name="Minishabaal" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
-	<spawn centerx="661" centery="1296" centerz="14" radius="1">
-		<monster name="Cobra Scout" x="1" y="-1" z="14" spawntime="120" />
-		
-	</spawn>
 	<spawn centerx="655" centery="1297" centerz="14" radius="1">
 		<monster name="Enslaved Dwarf" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
@@ -30958,23 +30937,21 @@
 	<spawn centerx="666" centery="1297" centerz="14" radius="1">
 		<monster name="Enslaved Dwarf" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
-		<spawn centerx="654" centery="1299" centerz="14" radius="1">
+	<spawn centerx="654" centery="1299" centerz="14" radius="1">
 		<monster name="Fury" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
 	<spawn centerx="652" centery="1300" centerz="14" radius="1">
-		
 		<monster name="Fury" x="-1" y="0" z="14" spawntime="120" />
 		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
 	<spawn centerx="653" centery="1303" centerz="14" radius="1">
 		<monster name="Fury" x="1" y="-1" z="14" spawntime="120" />
-		
 		<monster name="Betrayed Wraith" x="1" y="0" z="14" spawntime="120" />
 	</spawn>
 	<spawn centerx="665" centery="1304" centerz="14" radius="1">
 		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
-		<spawn centerx="674" centery="1312" centerz="14" radius="1">
+	<spawn centerx="674" centery="1312" centerz="14" radius="1">
 		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="120" />
 	</spawn>
 	<spawn centerx="642" centery="1337" centerz="14" radius="1">
@@ -31049,7 +31026,8 @@
 	<spawn centerx="618" centery="1236" centerz="15" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="15" spawntime="120" />
 	</spawn>
-	<spawn centerx="641" centery="1236" centerz="15" radius="1"><monster name="Juggernaut" x="0" y="0" z="15" spawntime="120" />
+	<spawn centerx="641" centery="1236" centerz="15" radius="1">
+		<monster name="Juggernaut" x="0" y="0" z="15" spawntime="120" />
 	</spawn>
 	<spawn centerx="630" centery="1239" centerz="15" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="15" spawntime="120" />
@@ -31115,7 +31093,8 @@
 	<spawn centerx="648" centery="1290" centerz="15" radius="1">
 		<monster name="Sight of Surrender" x="0" y="0" z="15" spawntime="120" />
 	</spawn>
-	<spawn centerx="640" centery="1291" centerz="15" radius="1"><monster name="Grim Reaper" x="0" y="0" z="15" spawntime="120" />
+	<spawn centerx="640" centery="1291" centerz="15" radius="1">
+		<monster name="Grim Reaper" x="0" y="0" z="15" spawntime="120" />
 	</spawn>
 	<spawn centerx="645" centery="1291" centerz="15" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="15" spawntime="120" />
@@ -31153,7 +31132,6 @@
 	</spawn>
 	<spawn centerx="674" centery="1327" centerz="15" radius="1">
 		<monster name="Guzzlemaw" x="1" y="-1" z="15" spawntime="120" />
-		
 	</spawn>
 	<spawn centerx="636" centery="1330" centerz="15" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="15" spawntime="120" />
@@ -31164,7 +31142,7 @@
 	<spawn centerx="648" centery="1331" centerz="15" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="15" spawntime="120" />
 	</spawn>
-		<spawn centerx="656" centery="1331" centerz="15" radius="1">
+	<spawn centerx="656" centery="1331" centerz="15" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="15" spawntime="120" />
 	</spawn>
 	<spawn centerx="658" centery="1334" centerz="15" radius="1">
