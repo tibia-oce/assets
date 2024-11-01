@@ -9950,8 +9950,8 @@
 	<spawn centerx="2077" centery="417" centerz="7" radius="1">
 		<monster name="Badger" x="-1" y="0" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="1035" centery="418" centerz="7" radius="1">
-		<npc name="Magnus Blackwater" x="0" y="0" z="7" spawntime="120" />
+	<spawn centerx="1034" centery="418" centerz="7" radius="1">
+		<npc name="Magnus Blackwater" x="1" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1069" centery="418" centerz="7" radius="1">
 		<npc name="Royal Guard" x="-1" y="0" z="7" spawntime="120" />
@@ -10108,14 +10108,14 @@
 	<spawn centerx="587" centery="431" centerz="7" radius="1">
 		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1018" centery="431" centerz="7" radius="1">
-		<npc name="Royal Guard" x="0" y="0" z="7" spawntime="120" />
-	</spawn>
 	<spawn centerx="1454" centery="431" centerz="7" radius="1">
 		<monster name="Silencer" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
 	<spawn centerx="1542" centery="431" centerz="7" radius="1">
 		<monster name="Retching Horror" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="1018" centery="432" centerz="7" radius="1">
+		<npc name="Royal Guard" x="0" y="-1" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="1422" centery="432" centerz="7" radius="1">
 		<npc name="Hanna" x="0" y="0" z="7" spawntime="120" />
@@ -10454,8 +10454,8 @@
 	<spawn centerx="598" centery="454" centerz="7" radius="1">
 		<monster name="Centipede" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1111" centery="454" centerz="7" radius="1">
-		<npc name="Royal Guard" x="0" y="0" z="7" spawntime="120" />
+	<spawn centerx="1112" centery="454" centerz="7" radius="1">
+		<npc name="Royal Guard" x="-1" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="224" centery="455" centerz="7" radius="1">
 		<monster name="Dragon Hatchling" x="0" y="0" z="7" spawntime="60" />
@@ -28050,8 +28050,8 @@
 	<spawn centerx="1147" centery="404" centerz="11" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="11" spawntime="90" />
 	</spawn>
-	<spawn centerx="1122" centery="405" centerz="11" radius="1">
-		<monster name="Necromancer" x="0" y="0" z="11" spawntime="90" />
+	<spawn centerx="1122" centery="406" centerz="11" radius="1">
+		<monster name="Necromancer" x="0" y="-1" z="11" spawntime="90" />
 	</spawn>
 	<spawn centerx="1147" centery="407" centerz="11" radius="1">
 		<monster name="Banshee" x="0" y="0" z="11" spawntime="90" />
