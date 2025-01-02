@@ -1,5 +1,23 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="204" centery="268" centerz="6" radius="1">
+		<npc name="Benjamin" x="0" y="0" z="6" spawntime="120" />
+	</spawn>
+	<spawn centerx="191" centery="284" centerz="6" radius="1">
+		<npc name="Yasir" x="0" y="1" z="6" spawntime="120" />
+	</spawn>
+	<spawn centerx="205" centery="267" centerz="7" radius="1">
+		<npc name="Armin" x="-1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="197" centery="269" centerz="7" radius="1">
+		<npc name="Addoner" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="185" centery="279" centerz="7" radius="1">
+		<npc name="Banker" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="197" centery="279" centerz="7" radius="1">
+		<npc name="Xodet" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="219" centery="227" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" direction="2" />
 	</spawn>
@@ -513,18 +531,26 @@
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="173" centery="299" centerz="9" radius="1">
+		<monster name="Carrion Worm" x="-1" y="-1" z="9" spawntime="60" direction="2" />
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="149" centery="300" centerz="9" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="152" centery="301" centerz="9" radius="1">
+		<monster name="Rotworm" x="1" y="-1" z="9" spawntime="60" direction="2" />
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="168" centery="301" centerz="9" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="170" centery="301" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="179" centery="304" centerz="9" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="181" centery="304" centerz="9" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="142" centery="307" centerz="9" radius="1">
@@ -533,37 +559,77 @@
 	<spawn centerx="182" centery="307" centerz="9" radius="1">
 		<monster name="Rotworm Queen" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="184" centery="307" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="179" centery="308" centerz="9" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="141" centery="309" centerz="9" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
+		<monster name="Rotworm" x="1" y="1" z="9" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="143" centery="309" centerz="9" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="166" centery="313" centerz="9" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="175" centery="314" centerz="9" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="170" centery="316" centerz="9" radius="1">
+		<monster name="Rotworm" x="-1" y="-1" z="9" spawntime="60" direction="2" />
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="173" centery="316" centerz="9" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="152" centery="320" centerz="9" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="155" centery="320" centerz="9" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="151" centery="322" centerz="9" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="153" centery="322" centerz="9" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="9" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="170" centery="305" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="171" centery="307" centerz="10" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="154" centery="308" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="156" centery="308" centerz="10" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="158" centery="308" centerz="10" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="161" centery="308" centerz="10" radius="1">
+		<monster name="Rotworm" x="1" y="-1" z="10" spawntime="60" direction="2" />
 		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="169" centery="308" centerz="10" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
+		<monster name="Rotworm" x="-1" y="1" z="10" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="148" centery="309" centerz="10" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="10" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="153" centery="310" centerz="10" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="150" centery="311" centerz="10" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="171" centery="311" centerz="10" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="10" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="152" centery="314" centerz="10" radius="1">
