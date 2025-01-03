@@ -3,17 +3,17 @@
 	<spawn centerx="204" centery="268" centerz="6" radius="1">
 		<npc name="Benjamin" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
+	<spawn centerx="187" centery="272" centerz="6" radius="1">
+		<npc name="Khadin" x="0" y="-1" z="6" spawntime="120" direction="2" />
+	</spawn>
 	<spawn centerx="213" centery="274" centerz="6" radius="1">
 		<npc name="Asnarus" x="-1" y="0" z="6" spawntime="120" />
 	</spawn>
-	<spawn centerx="191" centery="284" centerz="6" radius="1">
-		<npc name="Yasir" x="0" y="1" z="6" spawntime="120" />
+	<spawn centerx="199" centery="268" centerz="7" radius="1">
+		<npc name="Addoner" x="1" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="205" centery="267" centerz="7" radius="1">
-		<npc name="Armin" x="-1" y="1" z="7" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="197" centery="269" centerz="7" radius="1">
-		<npc name="Addoner" x="0" y="0" z="7" spawntime="60" direction="2" />
+	<spawn centerx="205" centery="268" centerz="7" radius="1">
+		<npc name="Armin" x="-1" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="185" centery="279" centerz="7" radius="1">
 		<npc name="Banker" x="0" y="0" z="7" spawntime="60" direction="2" />
