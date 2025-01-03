@@ -47,7 +47,7 @@
 		<item name="small stone" countmax="10" chance="15800" />
 		<item name="stone wing" chance="11730" />
 		<item name="potato" countmax="2" chance="9220" />
-		<item id="2680" countmax="5" chance="1910" />
+		<item name="strawberry" countmax="5" chance="1910" />
 		<item name="morning star" chance="1500" />
 		<item name="battle shield" chance="1300" />
 		<item name="wolf tooth chain" chance="1180" />
