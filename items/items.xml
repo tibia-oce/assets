@@ -2186,6 +2186,7 @@
     <item id="2148" article="a" name="gold coin">
         <attribute key="weight" value="10" />
         <attribute key="worth" value="1" />
+		<attribute key="loottype" value="coins" />
     </item>
     <item id="2149" article="a" name="small emerald">
         <attribute key="weight" value="10" />
@@ -4778,6 +4779,7 @@
     </item>
     <item id="2696" name="cheese">
         <attribute key="weight" value="400" />
+		<attribute key="loottype" value="food" />
         <attribute key="showcount" value="0" />
     </item>
     <item id="2697" article="a" name="snowy dead tree" />
