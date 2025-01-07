@@ -3283,6 +3283,7 @@
     <item id="2389" article="a" name="spear">
         <attribute key="weight" value="2000" />
         <attribute key="attack" value="25" />
+        <attribute key="loottype" value="equipment" />
         <attribute key="weaponType" value="distance" />
         <attribute key="shootType" value="spear" />
         <attribute key="maxHitChance" value="76" />
@@ -3726,6 +3727,7 @@
         <attribute key="defense" value="8" />
         <attribute key="attack" value="9" />
         <attribute key="weaponType" value="club" />
+		<attribute key="loottype" value="equipment" />
     </item>
     <item id="2449" article="a" name="bone club">
         <attribute key="description" value="It apparently originally belonged to some lesser undead." />
@@ -4683,6 +4685,7 @@
     <item id="2666" name="meat">
         <attribute key="weight" value="1300" />
         <attribute key="showcount" value="0" />
+		<attribute key="loottype" value="food" />
     </item>
     <item id="2667" article="a" name="fish" plural="fish">
         <attribute key="weight" value="520" />
