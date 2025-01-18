@@ -47358,7 +47358,8 @@
         <attribute key="weight" value="100" />
         <attribute key="magiclevelpoints" value="10" />
         <attribute key="defense" value="16" />
-        <attribute key="weaponType" value="shield" />
+        <attribute key="weaponType" value="shield"/>
+        <attribute key="loottype" value="equipment" />
     </item>
     <item id="28132" article="an" name="bug-blaster bow">
         <attribute key="weight" value="100" />
