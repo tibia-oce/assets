@@ -47345,50 +47345,40 @@
         <attribute key="description" value="Using this kit to recieve some knight goodies along your journey." />
         <attribute key="weight" value="100" />
     </item>
-
-
-
-
     <item id="28131" article="a" name="nepotism nimbus">
         <attribute key="description" value="Legends say that this wand holds the soul of a young dragon." />
-        <attribute key="weight" value="2100" />
+        <attribute key="weight" value="100" />
         <attribute key="weaponType" value="wand" />
-        <attribute key="shootType" value="fire" />
         <attribute key="range" value="5" />
         <attribute key="imbuementslots" value="2" />
-        <attribute key="magiclevelpoints" value="5" />
+        <attribute key="magiclevelpoints" value="10" />
     </item>
     <item id="28136" article="a" name="nepotism negator">
         <attribute key="description" value="It shows your spells and can also shield against attacks when worn." />
         <attribute key="weight" value="100" />
-        <attribute key="magiclevelpoints" value="2" />
+        <attribute key="magiclevelpoints" value="10" />
         <attribute key="defense" value="16" />
-        <attribute key="weaponType" value="spellbook" />
+        <attribute key="weaponType" value="shield" />
     </item>
-
-
-
     <item id="28132" article="an" name="bug-blaster bow">
         <attribute key="weight" value="100" />
         <attribute key="slotType" value="two-handed" />
         <attribute key="loottype" value="equipment" />
         <attribute key="weaponType" value="distance" />
         <attribute key="ammoType" value="arrow" />
-        <attribute key="range" value="6" />
-        <attribute key="hitChance" value="5" />
-        <attribute key="skillDist" value="10" />
+        <attribute key="range" value="7" />
+        <attribute key="attack" value="9" />
+        <attribute key="hitChance" value="6" />
+        <attribute key="skillDist" value="5" />
     </item>
     <item id="28133" article="a" name="bug-blaster quiver">
         <attribute key="weaponType" value="quiver"/>
 		<attribute key="containersize" value="10"/>
 		<attribute key="weight" value="100"/>
-        <attribute key="skillDist" value="10" />
+        <attribute key="skillDist" value="5" />
     </item>
-
-
-
     <item id="28134" article="a" name="bug-buster battleaxe">
-        <attribute key="weight" value="7600" />
+        <attribute key="weight" value="100" />
         <attribute key="defense" value="29" />
         <attribute key="attack" value="80" />
         <attribute key="loottype" value="equipment" />
