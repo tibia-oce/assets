@@ -47371,20 +47371,14 @@
 
 
 
-
-
-
-    <item id="28132" article="a" name="bug-blaster bow">
-        <attribute key="weaponType" value="distance"/>
-        <attribute key="slotType" value="two-handed"/>
-        <attribute key="ammotype" value="arrow"/>
+    <item id="28132" article="an" name="bug-blaster bow">
+        <attribute key="weight" value="100" />
+        <attribute key="slotType" value="two-handed" />
         <attribute key="loottype" value="equipment" />
-        <attribute key="hitchance" value="7"/>
-        <attribute key="range" value="6"/>
-        <attribute key="attack" value="15"/>
-        <attribute key="weight" value="100"/>
-        <attribute key="skillDist" value="10" />
-        <attribute key="showattributes" value="1" />
+        <attribute key="weaponType" value="distance" />
+        <attribute key="ammoType" value="arrow" />
+        <attribute key="range" value="6" />
+        <attribute key="hitChance" value="5" />
     </item>
     <item id="28133" article="a" name="bug-blaster quiver">
         <attribute key="slotType" value="ammo"/>
@@ -47394,20 +47388,24 @@
         <attribute key="skillDist" value="10" />
         <attribute key="showattributes" value="1" />
     </item>
+
+
+
     <item id="28134" article="a" name="bug-buster battleaxe">
-        <attribute key="weaponType" value="axe"/>
+        <attribute key="weight" value="7600" />
+        <attribute key="defense" value="29" />
+        <attribute key="attack" value="51" />
         <attribute key="loottype" value="equipment" />
-        <attribute key="attack" value="100"/>
-        <attribute key="defense" value="50"/>
-        <attribute key="weight" value="100"/>
-        <attribute key="skillAxe" value="10" />
+        <attribute key="weaponType" value="axe" />
+        <attribute key="extradef" value="3" />
+        <attribute key="description" value="Even in the light of day, the stars seem to reflect in each facet of this crystalline axe." />
+        <attribute key="skillAxe" value="1" />
     </item>
     <item id="28135" article="a" name="debugging defender">
         <attribute key="weaponType" value="shield"/>
         <attribute key="loottype" value="equipment" />
         <attribute key="defense" value="80"/>
         <attribute key="weight" value="100"/>
-        <attribute key="magiclevelpoints" value="8" />
-        <attribute key="skillAxe" value="10" />
+        <attribute key="skillAxe" value="1" />
     </item>
 </items>
