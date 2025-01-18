@@ -47715,4 +47715,16 @@
         <attribute key="description" value="Using this scroll will add 90 days of premium time to your account once." />
         <attribute key="weight" value="0" />
     </item>
+    <item id="28128" article="a" name="paladin kit">
+        <attribute key="description" value="Using this kit to recieve some paladin goodies along your journey." />
+        <attribute key="weight" value="100" />
+    </item>
+    <item id="28129" article="a" name="mage kit">
+        <attribute key="description" value="Using this kit to recieve some mage goodies along your journey." />
+        <attribute key="weight" value="100" />
+    </item>
+    <item id="28130" article="a" name="knight kit">
+        <attribute key="description" value="Using this kit to recieve some knight goodies along your journey." />
+        <attribute key="weight" value="100" />
+    </item>
 </items>
