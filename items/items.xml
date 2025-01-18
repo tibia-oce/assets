@@ -47350,6 +47350,7 @@
         <attribute key="weight" value="100" />
         <attribute key="weaponType" value="wand" />
         <attribute key="range" value="5" />
+        <attribute key="shootType" value="death" />
         <attribute key="imbuementslots" value="2" />
         <attribute key="magiclevelpoints" value="10" />
     </item>
