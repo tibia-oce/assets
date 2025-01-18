@@ -47347,14 +47347,15 @@
     </item>
 
 
-
     <item id="28131" article="a" name="nepotism nimbus">
-        <attribute key="weight" value="100" />
+        <attribute key="description" value="Legends say that this wand holds the soul of a young dragon." />
+        <attribute key="weight" value="2100" />
         <attribute key="weaponType" value="wand" />
-        <attribute key="shootType" value="death" />
         <attribute key="loottype" value="equipment" />
-        <attribute key="range" value="5" />
+        <attribute key="shootType" value="fire" />
+        <attribute key="range" value="3" />
         <attribute key="magiclevelpoints" value="5" />
+        <!-- <attribute key="showattributes" value="1" /> -->
     </item>
     <item id="28136" article="a" name="nepotism negator">
         <attribute key="weaponType" value="spellbook" />
@@ -47362,6 +47363,7 @@
         <attribute key="loottype" value="equipment" />
         <attribute key="weight" value="100"/>
         <attribute key="magiclevelpoints" value="5" />
+        <attribute key="showattributes" value="1" />
     </item>
 
 
