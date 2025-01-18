@@ -1,5 +1,87 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="330" centery="233" centerz="4" radius="1">
+		<monster name="Wild Warrior" x="-1" y="-1" z="4" spawntime="60" direction="2" />
+		<monster name="Wild Warrior" x="0" y="0" z="4" spawntime="60" direction="2" />
+		<monster name="Wild Warrior" x="-1" y="1" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="302" centery="226" centerz="5" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="298" centery="229" centerz="5" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="304" centery="232" centerz="5" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="333" centery="232" centerz="5" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="298" centery="235" centerz="5" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="302" centery="236" centerz="5" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="332" centery="236" centerz="5" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="316" centery="210" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="323" centery="211" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="318" centery="212" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="307" centery="216" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="309" centery="216" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="312" centery="216" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="-1" z="6" spawntime="60" direction="2" />
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="297" centery="217" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="335" centery="217" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="333" centery="218" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="297" centery="219" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="308" centery="219" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="312" centery="219" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="334" centery="223" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="-1" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="299" centery="226" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="322" centery="226" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="306" centery="227" centerz="6" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="312" centery="227" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="310" centery="231" centerz="6" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="204" centery="268" centerz="6" radius="1">
 		<npc name="Benjamin" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
@@ -8,6 +90,178 @@
 	</spawn>
 	<spawn centerx="213" centery="274" centerz="6" radius="1">
 		<npc name="Asnarus" x="-1" y="0" z="6" spawntime="120" />
+	</spawn>
+	<spawn centerx="317" centery="211" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Valkyrie" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="323" centery="211" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="318" centery="213" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="324" centery="213" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="311" centery="215" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="333" centery="216" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Valkyrie" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="301" centery="217" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="307" centery="217" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="317" centery="217" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="335" centery="217" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="297" centery="218" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="311" centery="218" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="326" centery="218" centerz="7" radius="1">
+		<monster name="Valkyrie" x="-1" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="317" centery="219" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="297" centery="220" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="300" centery="220" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="308" centery="221" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="330" centery="221" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="332" centery="223" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="334" centery="223" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="302" centery="224" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="311" centery="226" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="306" centery="227" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="316" centery="227" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="332" centery="227" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="297" centery="228" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="312" centery="228" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="330" centery="228" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="305" centery="229" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="310" centery="229" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="302" centery="230" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="302" centery="232" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="315" centery="232" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="332" centery="232" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="298" centery="234" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="325" centery="234" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="313" centery="235" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="321" centery="235" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="331" centery="235" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="304" centery="236" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="312" centery="237" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="295" centery="240" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="299" centery="240" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="321" centery="241" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="307" centery="243" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="311" centery="243" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="316" centery="243" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="298" centery="245" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="315" centery="249" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="318" centery="250" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="328" centery="253" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="322" centery="254" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="333" centery="254" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="310" centery="257" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="314" centery="257" centerz="7" radius="1">
+		<monster name="Wild Warrior" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="332" centery="258" centerz="7" radius="1">
+		<monster name="Valkyrie" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="199" centery="268" centerz="7" radius="1">
 		<npc name="Addoner" x="1" y="0" z="7" spawntime="60" direction="2" />
@@ -19,7 +273,7 @@
 		<npc name="Banker" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="197" centery="279" centerz="7" radius="1">
-		<npc name="Xodet" x="0" y="-1" z="7" spawntime="60" />
+		<npc name="Xodet" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="219" centery="227" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" direction="2" />

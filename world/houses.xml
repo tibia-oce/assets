@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Mythbound #1" houseid="1" entryx="244" entryy="269" entryz="7" rent="0" townid="1" size="52" />
-	<house name="Mythbound #2" houseid="2" entryx="254" entryy="269" entryz="7" rent="0" townid="1" size="65" />
-	<house name="Mythbound #3" houseid="3" entryx="249" entryy="277" entryz="7" rent="0" townid="1" size="84" />
+	<house name="Mythbound #1" houseid="1" entryx="244" entryy="269" entryz="7" rent="0" townid="1" size="68" />
+	<house name="Mythbound #2" houseid="2" entryx="254" entryy="269" entryz="7" rent="0" townid="1" size="59" />
+	<house name="Mythbound #3" houseid="3" entryx="249" entryy="277" entryz="7" rent="0" townid="1" size="78" />
 	<house name="Mythbound #4" houseid="4" entryx="243" entryy="280" entryz="7" rent="0" townid="1" size="80" />
 </houses>
