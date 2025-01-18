@@ -47333,7 +47333,6 @@
         <attribute key="description" value="Strange crown seen in rare cases on dragon lords." />
         <attribute key="loottype" value="creature products" />
     </item>
-    
     <item id="28128" article="a" name="paladin kit">
         <attribute key="description" value="Using this kit to recieve some paladin goodies along your journey." />
         <attribute key="weight" value="100" />
@@ -47345,5 +47344,53 @@
     <item id="28130" article="a" name="knight kit">
         <attribute key="description" value="Using this kit to recieve some knight goodies along your journey." />
         <attribute key="weight" value="100" />
+    </item>
+    <item id="28131" article="a" name="nepotism nimbus">
+        <attribute key="weaponType" value="spellbook" />
+        <attribute key="weaponType" value="wand"/>
+        <attribute key="shootType" value="death"/>
+        <attribute key="loottype" value="equipment" />
+        <attribute key="magicpoints" value="15"/>
+        <attribute key="range" value="5"/>
+        <attribute key="weight" value="100"/>
+    </item>
+    <item id="28136" article="a" name="nepotism negator">
+        <attribute key="weaponType" value="shield"/>
+        <attribute key="magicpoints" value="15"/>
+        <attribute key="defense" value="21"/>
+        <attribute key="loottype" value="equipment" />
+        <attribute key="weight" value="100"/>
+    </item>
+    <item id="28132" article="a" name="bug-blaster bow">
+        <attribute key="weaponType" value="distance"/>
+        <attribute key="slotType" value="two-handed"/>
+        <attribute key="ammotype" value="arrow"/>
+        <attribute key="loottype" value="equipment" />
+        <attribute key="skilldist" value="35"/>
+        <attribute key="hitchance" value="7"/>
+        <attribute key="range" value="6"/>
+        <attribute key="attack" value="15"/>
+        <attribute key="weight" value="100"/>
+    </item>
+    <item id="28133" article="a" name="bug-blaster quiver">
+        <attribute key="slotType" value="ammo"/>
+        <attribute key="containersize" value="10"/>
+        <attribute key="loottype" value="equipment" />
+        <attribute key="weight" value="100"/>
+    </item>
+    <item id="28134" article="a" name="bug-buster battleaxe">
+        <attribute key="weaponType" value="axe"/>
+        <attribute key="skillaxe" value="25"/>
+        <attribute key="loottype" value="equipment" />
+        <attribute key="attack" value="100"/>
+        <attribute key="defense" value="50"/>
+        <attribute key="weight" value="100"/>
+    </item>
+    <item id="28136" article="a" name="debugging defender">
+        <attribute key="weaponType" value="shield"/>
+        <attribute key="magicpoints" value="8"/>
+        <attribute key="loottype" value="equipment" />
+        <attribute key="defense" value="80"/>
+        <attribute key="weight" value="100"/>
     </item>
 </items>
