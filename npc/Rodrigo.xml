@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Rodrigo" script="taskNPC.lua" walkinterval="0" speechbubble="3">
+	<health now="100" max="100" />
+	<look type="151" head="39" body="122" legs="125" feet="57" addons="0" />
+	<parameters>
+		<parameter key="message_greet" value="Hola |PLAYERNAME|. ¿Estás buscando algunos {tasks}?" />
+		<parameter key="message_walkaway" value="Nos vemos pronto." />
+		<parameter key="message_farewell" value="yo también te despido." />
+	</parameters>
+</npc>
