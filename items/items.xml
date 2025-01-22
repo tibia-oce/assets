@@ -44264,8 +44264,8 @@
     <attribute key="weight" value="10" />
     <attribute key="loottype" value="special" />
     </item>
-    <item id="27487" name="Rare Demetar Card">
-    <attribute key="description" value="Enabling this card on your Deck give the possibility to convert Exevo Tera Hur Spell to Holy damage." />
+    <item id="27487" name="bronze dungeon invitation">
+    <attribute key="description" value="An eerie invitation sealed with dark wax. The parchment seems unnaturally cold to the touch, beckoning you to face the skeletal hordes that await." />
     <attribute key="weight" value="10" />
     <attribute key="loottype" value="special" />
     </item>
