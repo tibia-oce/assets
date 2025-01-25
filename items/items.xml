@@ -46307,160 +46307,160 @@
         <attribute key="showattributes" value="1" />
         <attribute key="armor" value="5" />
     </item>
-    <item id="27843" article="a" name="Exiled Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Exiled Spirit Badge to upgrade it to the next tier."/>
+    <item id="27843" article="a" name="Spellweaver's Bond Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants 15% chance for spells to steal life when applied to equipment."/>
     </item>
-    <item id="27844" article="a" name="Exiled Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Exiled Spirit Badge to upgrade it to the next tier."/>
+    <item id="27844" article="a" name="Spellweaver's Bond Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants 20% chance for spells to steal life when applied to equipment."/>
     </item>
-    <item id="27845" article="a" name="Exiled Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Exiled Spirit Badge to upgrade it to the next tier."/>
+    <item id="27845" article="a" name="Spellweaver's Bond Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants 30% chance for spells to steal life when applied to equipment."/>
     </item>
-    <item id="27846" article="a" name="Fury Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Fury Badge to upgrade it to the next tier."/>
+    <item id="27846" article="a" name="Health Augment Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants +5% maximum health when applied to equipment."/>
     </item>
-    <item id="27847" article="a" name="Fury Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Fury Badge to upgrade it to the next tier."/>
+    <item id="27847" article="a" name="Health Augment Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants +10% maximum health when applied to equipment."/>
     </item>
-    <item id="27848" article="a" name="Fury Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Fury Badge to upgrade it to the next tier."/>
+    <item id="27848" article="a" name="Health Augment Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants +15% maximum health when applied to equipment."/>
     </item>
-    <item id="27849" article="a" name="Moon Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Moon Badge to upgrade it to the next tier."/>
+    <item id="27849" article="a" name="Magic Level Augment Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants +2% magic level when applied to equipment."/>
     </item>
-    <item id="27850" article="a" name="Moon Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Moon Badge to upgrade it to the next tier."/>
+    <item id="27850" article="a" name="Magic Level Augment Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants +4% magic level when applied to equipment."/>
     </item>
-    <item id="27851" article="a" name="Moon Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Moon Badge to upgrade it to the next tier."/>
+    <item id="27851" article="a" name="Magic Level Augment Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants +6% magic level when applied to equipment."/>
     </item>
-    <item id="27852" article="a" name="Moon Amplifier Catalyst [4]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Moon Badge to upgrade it to the next tier."/>
+    <item id="27852" article="a" name="Magic Level Augment Tablet [4]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 4 tablet that grants +8% magic level when applied to equipment."/>
     </item>
-    <item id="27853" article="a" name="Night Seeker Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Night Seeker Badge to upgrade it to the next tier."/>
+    <item id="27853" article="a" name="Physical Augment Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants +2% physical damage when applied to equipment."/>
     </item>
-    <item id="27854" article="a" name="Night Seeker Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Night Seeker Badge to upgrade it to the next tier."/>
+    <item id="27854" article="a" name="Physical Augment Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants +4% physical damage when applied to equipment."/>
     </item>
-    <item id="27855" article="a" name="Night Seeker Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Night Seeker Badge to upgrade it to the next tier."/>
+    <item id="27855" article="a" name="Physical Augment Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants +6% physical damage when applied to equipment."/>
     </item>
-    <item id="27856" article="a" name="Night Seeker Amplifier Catalyst [4]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Night Seeker Badge to upgrade it to the next tier."/>
+    <item id="27856" article="a" name="Physical Augment Tablet [4]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 4 tablet that grants +8% physical damage when applied to equipment."/>
     </item>
-    <item id="27857" article="a" name="Earthshade Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Earthshade Badge to upgrade it to the next tier."/>
+    <item id="27857" article="a" name="Healing Augment Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants +2% healing received when applied to equipment."/>
     </item>
-    <item id="27858" article="a" name="Earthshade Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Earthshade Badge to upgrade it to the next tier."/>
+    <item id="27858" article="a" name="Healing Augment Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants +4% healing received when applied to equipment."/>
     </item>
-    <item id="27859" article="a" name="Earthshade Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Earthshade Badge to upgrade it to the next tier."/>
+    <item id="27859" article="a" name="Healing Augment Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants +6% healing received when applied to equipment."/>
     </item>
-    <item id="27860" article="a" name="Reborn Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Reborn Badge to upgrade it to the next tier."/>
+    <item id="27860" article="a" name="Elemental Augment Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants +2% to all elemental damage types when applied to equipment."/>
     </item>
-    <item id="27861" article="a" name="Reborn Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Reborn Badge to upgrade it to the next tier."/>
+    <item id="27861" article="a" name="Elemental Augment Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants +4% to all elemental damage types when applied to equipment."/>
     </item>
-    <item id="27862" article="a" name="Reborn Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Reborn Badge to upgrade it to the next tier."/>
+    <item id="27862" article="a" name="Elemental Augment Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants +6% to all elemental damage types when applied to equipment."/>
     </item>
-    <item id="27863" article="a" name="Reborn Amplifier Catalyst [4]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Reborn Badge to upgrade it to the next tier."/>
+    <item id="27863" article="a" name="Elemental Augment Tablet [4]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 4 tablet that grants +8% to all elemental damage types when applied to equipment."/>
     </item>
-    <item id="27864" article="a" name="Chaosfiend Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Chaosfiend Badge to upgrade it to the next tier."/>
+    <item id="27864" article="a" name="Marksman's Focus Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants 20% chance for ranged attacks to pierce armor and deal 25% increased damage when applied to equipment."/>
     </item>
-    <item id="27865" article="a" name="Chaosfiend Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Chaosfiend Badge to upgrade it to the next tier."/>
+    <item id="27865" article="a" name="Marksman's Focus Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants 20% chance for ranged attacks to pierce armor and deal 35% increased damage when applied to equipment."/>
     </item>
-    <item id="27866" article="a" name="Chaosfiend Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Chaosfiend Badge to upgrade it to the next tier."/>
+    <item id="27866" article="a" name="Marksman's Focus Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants 20% chance for ranged attacks to pierce armor and deal 50% increased damage when applied to equipment."/>
     </item>
-    <item id="27867" article="a" name="Veins Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Veins Badge to upgrade it to the next tier."/>
+    <item id="27867" article="a" name="Warrior's Guard Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants 10% chance to deflect incoming damage when applied to equipment."/>
     </item>
-    <item id="27868" article="a" name="Veins Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Veins Badge to upgrade it to the next tier."/>
+    <item id="27868" article="a" name="Warrior's Guard Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants 15% chance to deflect incoming damage when applied to equipment."/>
     </item>
-    <item id="27869" article="a" name="Veins Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Veins Badge to upgrade it to the next tier."/>
+    <item id="27869" article="a" name="Warrior's Guard Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants 25% chance to deflect incoming damage when applied to equipment."/>
     </item>
-    <item id="27870" article="a" name="Daybreak Amplifier Catalyst [1]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Daybreak Badge to upgrade it to the next tier."/>
+    <item id="27870" article="a" name="Skills Augment Tablet [1]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 1 tablet that grants +2% to all skills (Melee, Distance, Shielding) when applied to equipment."/>
     </item>
-    <item id="27871" article="a" name="Daybreak Amplifier Catalyst [2]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Daybreak Badge to upgrade it to the next tier."/>
+    <item id="27871" article="a" name="Skills Augment Tablet [2]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 2 tablet that grants +4% to all skills (Melee, Distance, Shielding) when applied to equipment."/>
     </item>
-    <item id="27872" article="a" name="Daybreak Amplifier Catalyst [3]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Daybreak Badge to upgrade it to the next tier."/>
+    <item id="27872" article="a" name="Skills Augment Tablet [3]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 3 tablet that grants +6% to all skills (Melee, Distance, Shielding) when applied to equipment."/>
     </item>
-    <item id="27873" article="a" name="Daybreak Amplifier Catalyst [4]">
-        <attribute key="weight" value="200"/>
-        <attribute key="loottype" value="special" />
-        <attribute key="description" value="Use this Amplifier on Daybreak Badge to upgrade it to the next tier."/>
+    <item id="27873" article="a" name="Skills Augment Tablet [4]">
+    <attribute key="weight" value="200"/>
+    <attribute key="loottype" value="special" />
+    <attribute key="description" value="A tier 4 tablet that grants +8% to all skills (Melee, Distance, Shielding) when applied to equipment."/>
     </item>
     <item fromid="27874" toid="27891" article="a" name="Fantasy herb">
     </item>
