@@ -1485,9 +1485,6 @@
 	<spawn centerx="1038" centery="92" centerz="5" radius="30">
 		<monster name="Elder Wyrm" x="9" y="21" z="5" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="1470" centery="121" centerz="5" radius="1">
-		<monster name="Hydra" x="1" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="1117" centery="131" centerz="5" radius="30">
 		<monster name="Elf Arcanist" x="-1" y="0" z="5" spawntime="60" />
 		<monster name="Elf Arcanist" x="3" y="0" z="5" spawntime="60" />
@@ -1498,12 +1495,6 @@
 		<monster name="Elf Overseer" x="1" y="22" z="5" spawntime="120" />
 		<monster name="Elf Overseer" x="2" y="22" z="5" spawntime="120" />
 		<monster name="Elder Forest Fury" x="3" y="27" z="5" spawntime="120" />
-	</spawn>
-	<spawn centerx="1456" centery="131" centerz="5" radius="1">
-		<monster name="Hydra" x="-1" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="1461" centery="131" centerz="5" radius="1">
-		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="301" centery="151" centerz="5" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="5" spawntime="60" />
@@ -3424,9 +3415,6 @@
 	<spawn centerx="1020" centery="77" centerz="6" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="1478" centery="90" centerz="6" radius="1">
-		<monster name="Slime" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="1053" centery="91" centerz="6" radius="30">
 		<monster name="Wyrm" x="-11" y="-13" z="6" spawntime="60" direction="2" />
 		<monster name="Elder Wyrm" x="-1" y="-13" z="6" spawntime="60" direction="2" />
@@ -3442,21 +3430,6 @@
 		<monster name="Wyrm" x="7" y="20" z="6" spawntime="60" direction="2" />
 		<monster name="Elder Wyrm" x="-13" y="23" z="6" spawntime="60" direction="2" />
 		<monster name="Elder Wyrm" x="6" y="23" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="1483" centery="95" centerz="6" radius="1">
-		<monster name="Slime" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="1455" centery="122" centerz="6" radius="1">
-		<monster name="Hydra" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="1464" centery="122" centerz="6" radius="1">
-		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="1475" centery="126" centerz="6" radius="1">
-		<monster name="Hydra" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="1466" centery="127" centerz="6" radius="1">
-		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1115" centery="132" centerz="6" radius="30">
 		<monster name="Adept of the Cult" x="-27" y="-30" z="6" spawntime="60" />
@@ -6787,15 +6760,11 @@
 	<spawn centerx="1119" centery="81" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="1480" centery="81" centerz="7" radius="1" />
 	<spawn centerx="1023" centery="83" centerz="7" radius="1">
 		<monster name="Wyrm" x="-1" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="1065" centery="83" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="1460" centery="83" centerz="7" radius="1">
-		<monster name="Bug" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1028" centery="84" centerz="7" radius="1">
 		<monster name="Wyrm" x="-1" y="0" z="7" spawntime="60" direction="2" />
@@ -6803,17 +6772,11 @@
 	<spawn centerx="1039" centery="86" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="1475" centery="87" centerz="7" radius="1">
-		<monster name="Tarantula" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1047" centery="88" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="1057" centery="88" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="1489" centery="88" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1069" centery="89" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
@@ -6824,23 +6787,8 @@
 	<spawn centerx="1151" centery="90" centerz="7" radius="1">
 		<monster name="Wisp" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="1470" centery="90" centerz="7" radius="1">
-		<monster name="Tarantula" x="1" y="-1" z="7" spawntime="1024" />
-	</spawn>
-	<spawn centerx="1497" centery="90" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1487" centery="91" centerz="7" radius="1">
-		<monster name="Slime" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1141" centery="92" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
-	</spawn>
-	<spawn centerx="1460" centery="92" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1480" centery="93" centerz="7" radius="1">
-		<monster name="Slime" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1050" centery="94" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
@@ -6851,35 +6799,14 @@
 	<spawn centerx="1165" centery="96" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="1464" centery="96" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1073" centery="97" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="1482" centery="99" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1451" centery="102" centerz="7" radius="1">
-		<monster name="Slime" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1464" centery="103" centerz="7" radius="1">
-		<monster name="Tarantula" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1482" centery="103" centerz="7" radius="1">
-		<monster name="Tarantula" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1049" centery="104" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="1124" centery="105" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
-	</spawn>
-	<spawn centerx="1449" centery="105" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="1" z="7" spawntime="1024" />
-	</spawn>
-	<spawn centerx="1475" centery="105" centerz="7" radius="1">
-		<monster name="Tarantula" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="466" centery="106" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="120" />
@@ -6893,20 +6820,11 @@
 	<spawn centerx="1044" centery="108" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="1455" centery="108" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1107" centery="109" centerz="7" radius="1">
 		<monster name="Wisp" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="471" centery="110" centerz="7" radius="1">
 		<monster name="Tortoise" x="0" y="0" z="7" spawntime="120" />
-	</spawn>
-	<spawn centerx="1474" centery="110" centerz="7" radius="1">
-		<monster name="Tarantula" x="1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1459" centery="111" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="457" centery="112" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="120" />
@@ -6919,9 +6837,6 @@
 	</spawn>
 	<spawn centerx="482" centery="115" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="120" />
-	</spawn>
-	<spawn centerx="1463" centery="115" centerz="7" radius="1">
-		<monster name="Slime" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="462" centery="116" centerz="7" radius="1">
 		<monster name="Tortoise" x="0" y="0" z="7" spawntime="120" />
@@ -6965,14 +6880,8 @@
 	<spawn centerx="1156" centery="118" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
-	<spawn centerx="1460" centery="118" centerz="7" radius="1">
-		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="429" centery="119" centerz="7" radius="1">
 		<monster name="Tiger" x="0" y="0" z="7" spawntime="120" />
-	</spawn>
-	<spawn centerx="1476" centery="119" centerz="7" radius="1">
-		<monster name="Tarantula" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="441" centery="120" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="120" />
@@ -15977,30 +15886,6 @@
 		<monster name="Warlock" x="16" y="5" z="8" spawntime="60" />
 		<monster name="Warlock" x="9" y="21" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1448" centery="85" centerz="8" radius="20">
-		<monster name="Brimstone Bug" x="-8" y="-14" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="3" y="-12" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="11" y="-12" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="19" y="-12" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="-8" y="-5" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="11" y="-3" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="-8" y="5" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="12" y="6" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="-8" y="14" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="11" y="18" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="-7" y="19" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="20" y="20" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1470" centery="92" centerz="8" radius="20">
-		<monster name="Brimstone Bug" x="6" y="-19" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="9" y="-9" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="8" y="-1" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="8" y="6" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="9" y="14" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1477" centery="113" centerz="8" radius="1">
-		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1176" centery="117" centerz="8" radius="30">
 		<monster name="Dragon Lord" x="-20" y="15" z="8" spawntime="60" />
 		<monster name="Dragon Lord" x="-12" y="20" z="8" spawntime="60" />
@@ -16008,9 +15893,6 @@
 		<monster name="Dragon Lord" x="21" y="25" z="8" spawntime="60" />
 		<monster name="Dragon Lord" x="-9" y="26" z="8" spawntime="60" />
 		<monster name="Dragon Lord" x="7" y="27" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1477" centery="120" centerz="8" radius="1">
-		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="972" centery="123" centerz="8" radius="30">
 		<monster name="Ice Witch" x="22" y="-13" z="8" spawntime="60" />
@@ -16025,16 +15907,6 @@
 		<monster name="Ice Witch" x="-4" y="4" z="8" spawntime="60" />
 		<monster name="Ice Witch" x="0" y="5" z="8" spawntime="60" />
 		<monster name="Ice Witch" x="22" y="5" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1455" centery="129" centerz="8" radius="20">
-		<monster name="Brimstone Bug" x="-16" y="-14" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="17" y="-7" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="-7" y="-5" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="1" y="-5" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="-5" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="-15" y="-4" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="3" y="2" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="3" y="13" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1236" centery="134" centerz="8" radius="30">
 		<monster name="Dragon Lord" x="-21" y="9" z="8" spawntime="60" />
@@ -20563,35 +20435,8 @@
 	<spawn centerx="1194" centery="62" centerz="9" radius="1">
 		<monster name="Medusa" x="0" y="0" z="9" spawntime="120" />
 	</spawn>
-	<spawn centerx="1489" centery="64" centerz="9" radius="20">
-		<monster name="Brimstone Bug" x="-3" y="-8" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="6" y="-8" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-12" y="-5" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="-1" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="12" y="0" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-6" y="3" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="2" y="3" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-14" y="6" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="9" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-10" y="15" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="18" z="9" spawntime="60" />
-	</spawn>
 	<spawn centerx="1211" centery="65" centerz="9" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="9" spawntime="120" />
-	</spawn>
-	<spawn centerx="1455" centery="65" centerz="9" radius="20">
-		<monster name="Brimstone Bug" x="-3" y="-9" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="13" y="-9" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-14" y="-7" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="5" y="-6" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-13" y="2" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="3" y="4" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="10" y="4" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="13" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-15" y="18" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-9" y="18" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-2" y="19" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="20" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1209" centery="66" centerz="9" radius="1">
 		<monster name="Medusa" x="0" y="0" z="9" spawntime="120" />
@@ -20634,19 +20479,6 @@
 	</spawn>
 	<spawn centerx="1201" centery="79" centerz="9" radius="1">
 		<monster name="Sea Serpent" x="0" y="0" z="9" spawntime="120" />
-	</spawn>
-	<spawn centerx="1457" centery="86" centerz="9" radius="20">
-		<monster name="Brimstone Bug" x="4" y="4" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="10" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="16" y="11" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="1488" centery="94" centerz="9" radius="20">
-		<monster name="Brimstone Bug" x="-9" y="-9" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="8" y="-3" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-9" y="1" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="0" y="3" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="-8" y="5" z="9" spawntime="60" />
-		<monster name="Brimstone Bug" x="9" y="5" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1174" centery="120" centerz="9" radius="30">
 		<monster name="Dragon" x="1" y="-8" z="9" spawntime="60" />
