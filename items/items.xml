@@ -39873,21 +39873,25 @@
         <attribute key="weight" value="275" />
         <attribute key="loottype" value="creature products" />
     </item>
-    <item id="26798" article="a" name="Deep Stone">
-        <attribute key="weight" value="340" />
-        <attribute key="loottype" value="creature products" />
-    </item>
-    <item id="26799" article="a" name="Violet Crystal">
+    <item id="26798" article="a" name="upgrade catalyst">
         <attribute key="weight" value="150" />
-        <attribute key="loottype" value="creature products" />
+        <attribute key="description" value="Prevents item destroy on upgrade. Consumed on item upgrade." />
+        <attribute key="loottype" value="special" />
     </item>
-    <item id="26800" article="a" name="Blue Crystal">
+    <item id="26799" article="a" name="upgrade crystal">
+        <attribute key="description" value="Can be used on a piece of equipment for a chance to upgrade it." />
+        <attribute key="loottype" value="special" />
         <attribute key="weight" value="150" />
-        <attribute key="loottype" value="creature products" />
     </item>
-    <item id="26801" article="a" name="Green Crystal">
+    <item id="26800" article="a" name="alteration crystal">
+        <attribute key="description" value="Can be used on a piece of equipment to remove last attribute." />
+        <attribute key="loottype" value="special" />
         <attribute key="weight" value="150" />
-        <attribute key="loottype" value="creature products" />
+    </item>
+    <item id="26801" article="a" name="enchantment crystal">
+        <attribute key="description" value="Can be used on a piece of equipment to add random attribute." />
+        <attribute key="loottype" value="special" />
+        <attribute key="weight" value="150" />
     </item>
     <item id="26802" article="a" name="gnome helmet">
         <attribute key="weight" value="2400" />
@@ -42274,10 +42278,10 @@
         <attribute key="showattributes" value="1" />
         <attribute key="slotType" value="feet" />
     </item>
-    <item id="27133" name="Star Inlay Stone">
+    <item id="27133" name="unidentified fossil">
         <attribute key="weight" value="95" />
-        <attribute key="description" value="Use this stone on certain equipment to inlay 3 stars." />
-        <attribute key="loottype" value="misc" />
+        <attribute key="description" value="There is unknown crystal inside, try to use crystal extractor." />
+        <attribute key="loottype" value="special" />
     </item>
     <item id="27134" name="Common Star Inlay Stone">
         <attribute key="weight" value="95" />
@@ -42353,9 +42357,9 @@
         <attribute key="description" value="Use this stone on certain equipment to inlay 3 Legendary Stars." />
         <attribute key="loottype" value="misc" />
     </item>
-    <item id="27149" name="Star Extractor">
+    <item id="27149" name="star extractor">
         <attribute key="weight" value="225" />
-        <attribute key="description" value="Use this extractor on star-encrusted equipment to extract them." />
+        <attribute key="description" value="Used to extract rare crystals from unidentified fossils." />
         <attribute key="loottype" value="misc" />
     </item>
     <item id="27150" name="Lesser guardian gem">
@@ -45496,18 +45500,19 @@
         <attribute key="weight" value="118"/>
         <attribute key="loottype" value="creature products" />
     </item>
-    <item id="27698" article="a" name="Mirror Scale">
+    <item id="27698" article="a" name="mirroring crystal">
         <attribute key="weight" value="90"/>
-        <attribute key="loottype" value="creature products" />
-    </item>
-    <item id="27699" article="a" name="Legendary Exotic Essence">
-        <attribute key="weight" value="200"/>
-        <attribute key="description" value="Use this essence on a Legendary Exotic card to upgrade it.&#10;Sucess rate is 30%. The card will not be destroyed if it misses and the level will not be demoted."/>
+        <attribute key="description" value="Used to make a copy of any item. Copies can't be modified and mirrored again."/>
         <attribute key="loottype" value="special" />
     </item>
-    <item id="27700" article="a" name="Legendary Chaos Essence">
+    <item id="27699" article="a" name="mind crystal">
         <attribute key="weight" value="200"/>
-        <attribute key="description" value="Use this essence on a Legendary Chaos card to upgrade it.&#10;Sucess rate is 20%. The card will not be destroyed if it misses and the level will not be demoted."/>
+        <attribute key="description" value="Used to extract all attributes and values and store in that crystal. Can be used again to place these attributes to a new item. Lower item rarity will remove exceeded attributes."/>
+        <attribute key="loottype" value="special" />
+    </item>
+    <item id="27700" article="a" name="limitless crystal">
+        <attribute key="weight" value="200"/>
+        <attribute key="description" value="Used to remove Item Level requirement to equip given item."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27701" article="a" name="Legendary Abyssal Essence">
@@ -45515,24 +45520,24 @@
         <attribute key="description" value="Use this essence on a Legendary Abyssal card to upgrade it.&#10;Sucess rate is 10%. The card will not be destroyed if it misses and the level will not be demoted."/>
         <attribute key="loottype" value="special" />
     </item>
-    <item id="27702" article="a" name="Legendary Ancestral Essence">
+    <item id="27702" article="a" name="void crystal">
         <attribute key="weight" value="200"/>
-        <attribute key="description" value="Use this essence on a Legendary Ancestral card to upgrade it.&#10;Sucess rate is 5%. The card will not be destroyed if it misses and the level will not be demoted."/>
+        <attribute key="description" value="Used to transform item into random Unique type."/>
         <attribute key="loottype" value="special" />
     </item>
-    <item id="27703" article="a" name="Rare Essence">
+    <item id="27703" article="a" name="cleansing crystal">
         <attribute key="weight" value="100"/>
-        <attribute key="description" value="Use this Essence on a Common card to transform it into Rare Card.&#10;Sucess rate is 50%. The card will not be destroyed if it misses and the level will not be demoted."/>
+        <attribute key="description" value="Can be used on a piece of equipment to remove all attributes."/>
         <attribute key="loottype" value="special" />
     </item>
-    <item id="27704" article="a" name="Epic Essence">
+    <item id="27704" article="a" name="fortune crystal">
         <attribute key="weight" value="100"/>
-        <attribute key="description" value="Use this Essence on a Rare card to transform it into Epic Card.&#10;Sucess rate is 25%. The card will not be destroyed if it misses and the level will not be demoted."/>
+        <attribute key="description" value="Can be used on a piece of equipment to change value of last attribute."/>
         <attribute key="loottype" value="special" />
     </item>
-    <item id="27705" article="a" name="Mythic Essence">
+    <item id="27705" article="a" name="faith crystal">
         <attribute key="weight" value="100"/>
-        <attribute key="description" value="Use this Essence on a Epic card to transform it into Mythic Card.&#10;Sucess rate is 10%. The card will not be destroyed if it misses and the level will not be demoted."/>
+        <attribute key="description" value="Can be used on a piece of equipment to change values of all attributes."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27706" article="a" name="Flame Cloth">
@@ -47396,5 +47401,10 @@
         <attribute key="defense" value="80"/>
         <attribute key="weight" value="100"/>
         <attribute key="skillAxe" value="10" />
+    </item>
+    <item id="28137" article="a" name="identification scroll">
+        <attribute key="description" value="a common currency item that can be used to identify items."/>
+        <attribute key="loottype" value="special" />
+        <attribute key="weight" value="10" />
     </item>
 </items>
