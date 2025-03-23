@@ -42357,9 +42357,9 @@
         <attribute key="description" value="Use this stone on certain equipment to inlay 3 Legendary Stars." />
         <attribute key="loottype" value="misc" />
     </item>
-    <item id="27149" name="star extractor">
+    <item id="27149" name="crystal extractor">
         <attribute key="weight" value="225" />
-        <attribute key="description" value="Used to extract rare crystals from unidentified fossils." />
+        <attribute key="description" value="Used to extract rare crystals from fossils." />
         <attribute key="loottype" value="misc" />
     </item>
     <item id="27150" name="Lesser guardian gem">
@@ -47405,6 +47405,6 @@
     <item id="28137" article="a" name="identification scroll">
         <attribute key="description" value="a common currency item that can be used to identify items."/>
         <attribute key="loottype" value="special" />
-        <attribute key="weight" value="10" />
+        <attribute key="weight" value="100" />
     </item>
 </items>
