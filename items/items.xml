@@ -4268,6 +4268,7 @@
         <attribute key="armor" value="7" />
         <attribute key="slotType" value="legs" />
         <attribute key="loottype" value="equipment" />
+        <attribute key="augment" value="dwarven legs">
     </item>
     <item id="2505" article="an" name="elven mail">
         <attribute key="weight" value="9000" />
