@@ -39874,14 +39874,14 @@
         <attribute key="loottype" value="creature products" />
     </item>
     <item id="26798" article="a" name="upgrade catalyst">
-        <attribute key="weight" value="150" />
+        <attribute key="weight" value="5" />
         <attribute key="description" value="Prevents item destroy on upgrade. Consumed on item upgrade." />
         <attribute key="loottype" value="special" />
     </item>
     <item id="26799" article="an" name="upgrade crystal">
         <attribute key="description" value="Can be used on a piece of equipment for a chance to upgrade it." />
         <attribute key="loottype" value="special" />
-        <attribute key="weight" value="150" />
+        <attribute key="weight" value="5" />
     </item>
     <item id="26800" article="an" name="alteration crystal">
         <attribute key="description" value="Can be used to reroll modifiers on a common or rare item." />
@@ -45501,41 +45501,41 @@
         <attribute key="loottype" value="creature products" />
     </item>
     <item id="27698" article="a" name="mirroring crystal">
-        <attribute key="weight" value="90"/>
+        <attribute key="weight" value="5"/>
         <attribute key="description" value="Used to make a copy of any item. Copies can't be modified and mirrored again."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27699" article="a" name="crystal">
-        <attribute key="weight" value="200"/>
+        <attribute key="weight" value="5"/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27700" article="an" name="annulment crystal">
-        <attribute key="weight" value="200"/>
+        <attribute key="weight" value="5"/>
         <attribute key="description" value="Removes one random modifier from an item."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27701" article="a" name="mind crystal">
-        <attribute key="weight" value="200"/>
+        <attribute key="weight" value="5"/>
         <attribute key="description" value="Used to extract all attributes and values and store in that crystal. Can be used again to place these attributes to a new item. Lower item rarity will remove exceeded attributes."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27702" article="a" name="divining crystal">
-        <attribute key="weight" value="200"/>
+        <attribute key="weight" value="5"/>
         <attribute key="description" value="Rerolls all modifier values of an item without changing the modifiers themselves."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27703" article="a" name="scouring crystal">
-        <attribute key="weight" value="100"/>
+        <attribute key="weight" value="5"/>
         <attribute key="description" value="Removes all modifiers from an item, setting it back to common rarity."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27704" article="an" name="exaltation crystal">
-        <attribute key="weight" value="100"/>
+        <attribute key="weight" value="5"/>
         <attribute key="description" value="Adds a new modifier to an item that already has at least one modifier."/>
         <attribute key="loottype" value="special" />
     </item>
     <item id="27705" article="a" name="chaos crystal">
-        <attribute key="weight" value="100"/>
+        <attribute key="weight" value="5"/>
         <attribute key="description" value="Rerolls the rarity and all modifiers of an item. Complete randomization."/>
         <attribute key="loottype" value="special" />
     </item>
